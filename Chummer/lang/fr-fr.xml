@@ -2038,12 +2038,84 @@
 		<text>Êtes-vous sûr de vouloir effacer cette compétence exotique ?</text>
 	  </string>
 	  <string>
+		<key>Message_DeleteSkill</key>
+		<text>Êtes-vous sûr de vouloir effacer cette compétence ?</text>
+	  </string>
+	  <string>
 		<key>Message_DeletePositiveQualityCareer</key>
 		<text>Êtes-vous sûr de vouloir supprimer cet avantage ? Vous ne recevrez aucun Karma pour l'avoir retiré.</text>
 	  </string>
 	  <string>
 		<key>Message_DeleteDrug</key>
 		<text>Êtes-vous sûr de vouloir supprimer cette recette de drogue ?</text>
+	  </string>
+	  <string>
+		<key>Message_LowerPositiveQualityLevelCareer</key>
+		<text>Êtes-vous sûr de vouloir effacer un niveau de cet avantage ? Vous ne recevrez pas de Karma pour l'avoir enlevé.</text>
+	  </string>
+	  <string>
+		<key>Message_DeleteImprovement</key>
+		<text>Êtes-vous sûr de vouloir supprimer cette amélioration ?</text>
+	  </string>
+	  <string>
+		<key>Message_DeleteImprovementGroup</key>
+		<text>Êtes-vous sûr de vouloir supprimer ce groupe d'amélioration ? Toutes les améliorations placées dans ce groupe seront déplacées vers les améliorations sélectionnées.</text>
+	  </string>
+	  <string>
+		<key>Message_DeleteStackedFocus</key>
+		<text>Êtes-vous sûr de vouloir supprimer ce focus multiple ?</text>
+	  </string>
+	  <string>
+		<key>Message_DeleteCalendarWeek</key>
+		<text>Êtes-vous sûr de vouloir effacer cette entrée du calendrier ?</text>
+	  </string>
+	  <string>
+		<key>Message_SpiritServices</key>
+		<text>Le nombre de services dûs par un esprit ne peut dépasser votre indice de compétence d'Invocation.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SpiritServices</key>
+		<text>Services dûs</text>
+	  </string>
+	  <string>
+		<key>Message_SpriteServices</key>
+		<text>Le nombre de tâches dues par un sprite ne peut dépasser votre indice de compétence de Compilation.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SpriteServices</key>
+		<text>Tâches dues</text>
+	  </string>
+	  <string>
+		<key>Message_PowerLevel</key>
+		<text>Le niveau de votre pouvoir ne peut pas excéder votre indice de Magie.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_PowerLevel</key>
+		<text>Niveau de pouvoir</text>
+	  </string>
+	  <string>
+		<key>Message_CannotDeleteLimitModifier</key>
+		<text>Vous devez supprimer la source de ce modificateur pour supprimer cet objet.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotDeleteLimitModifier</key>
+		<text>Impossible de supprimer</text>
+	  </string>
+	  <string>
+		<key>Message_MartialArtManeuverLimit</key>
+		<text>Seules deux manoeuvres sont autorisées par indice d'art martial.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_MartialArtManeuverLimit</key>
+		<text>Nombre maximum de manoeuvres</text>
+	  </string>
+	  <string>
+		<key>Message_SelectMartialArtTechnique</key>
+		<text>Vous devez d'abord sélectionner un art martial pour pouvoir lui ajouter un avantage.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectMartialArtTechnique</key>
+		<text>Sélectionnez un art martial</text>
 	  </string>
 	  <string>
 			<key>Button_AddBundle</key>
@@ -2056,58 +2128,6 @@
 		<string>
 			<key>Button_UnEquipAll</key>
 			<text>Déséquiper tout</text>
-		</string>
-		<string>
-			<key>Message_DeleteImprovement</key>
-			<text>Êtes-vous sûr de vouloir supprimer cette amélioration?</text>
-		</string>
-		<string>
-			<key>Message_DeleteImprovementGroup</key>
-			<text>Êtes-vous sûr de vouloir supprimer ce groupe d'amélioration ? Toutes les améliorations placées dans ce groupe seront déplacées vers les améliorations sélectionnées.</text>
-		</string>
-		<string>
-			<key>Message_DeleteStackedFocus</key>
-			<text>Êtes-vous sûr de vouloir supprimer ce focus multiple?</text>
-		</string>
-		<string>
-			<key>Message_SpiritServices</key>
-			<text>Le nombre de services dûs par un esprit ne peut dépasser votre indice de compétence d'Invocation.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SpiritServices</key>
-			<text>Services dûs</text>
-		</string>
-		<string>
-			<key>Message_SpriteServices</key>
-			<text>Le nombre de tâches dûes par un sprite ne peut dépasser votre indice de compétence de Compilation.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SpriteServices</key>
-			<text>Tâches dûes</text>
-		</string>
-		<string>
-			<key>Message_PowerLevel</key>
-			<text>Le niveau de votre pouvoir ne peut pas excéder votre indice de Magie.</text>
-		</string>
-		<string>
-			<key>MessageTitle_PowerLevel</key>
-			<text>Niveau de pouvoir</text>
-		</string>
-		<string>
-			<key>Message_MartialArtManeuverLimit</key>
-			<text>Seules deux manoeuvres sont autorisées par indice d'art martial.</text>
-		</string>
-		<string>
-			<key>MessageTitle_MartialArtManeuverLimit</key>
-			<text>Nombre de manoeuvres</text>
-		</string>
-		<string>
-			<key>Message_SelectMartialArtTechnique</key>
-			<text>Vous devez d'abord sélectionner un art martial pour pouvoir lui ajouter un avantage.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectMartialArtTechnique</key>
-			<text>Sélectionnez un art martial</text>
 		</string>
 		<string>
 			<key>Message_PositiveQualityLimit</key>
@@ -7449,14 +7469,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 			<text>Métamagie</text>
 		</string>
 		<string>
-			<key>Message_CannotDeleteLimitModifier</key>
-			<text>Vous devez supprimer la source de ce modificateur pour supprimer cet objet.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotDeleteLimitModifier</key>
-			<text>Impossible de supprimer</text>
-		</string>
-		<string>
 			<key>MessageTitle_SelectLimitModifier</key>
 			<text>Sélectionnez une Limite modifiée</text>
 		</string>
@@ -7993,14 +8005,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>String_Seconds</key>
 			<text>secondes</text>
-		</string>
-		<string>
-			<key>Message_LowerPositiveQualityLevelCareer</key>
-			<text>Êtes-vous sûr de vouloir effacer un niveau de cette qualité positive ? Vous ne recevrez pas de Karma pour l'avoir enlevé.</text>
-		</string>
-		<string>
-			<key>Message_DeleteCalendarWeek</key>
-			<text>Êtes-vous sûr de vouloir effacer cette entrée du calendrier ?</text>
 		</string>
 		<string>
 			<key>Message_RestrictedGearUsed</key>

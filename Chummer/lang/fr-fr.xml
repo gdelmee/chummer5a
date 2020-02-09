@@ -457,7 +457,7 @@
 	  </string>
 	  <string>
 		<key>String_AddMore</key>
-		<text>&amp;Rajouter...</text>
+		<text>&amp;Ajouter...</text>
 	  </string>
 	  <string>
 		<key>String_Rating</key>
@@ -614,6 +614,10 @@
 	  <string>
 		<key>Label_Armor</key>
 		<text>Blindage :</text>
+	  </string>
+	  <string>
+		<key>Label_Dodge</key>
+		<text>Esquive :</text>
 	  </string>
 	  <string>
 		<key>Label_Seats</key>
@@ -1024,51 +1028,51 @@
 		<text>Arme</text>
 	  </string>
 	  <!-- End Region -->
-	  <!-- Printout Strings -->
-		<string>
-			<key>String_UnarmedAttack</key>
-			<text>Attaque à mains nues</text>
-		</string>
-		<string>
-			<key>String_Unarmed</key>
-			<text>Mains nues</text>
-		</string>
-		<string>
-			<key>String_LivingPersona</key>
-			<text>Persona incarné</text>
-		</string>
-		<string>
-			<key>String_BiofeedbackFilter</key>
-			<text>Filtre de biofeedback</text>
-		</string>
-		<string>
-			<key>String_Commlink</key>
-			<text>Commlink</text>
-		</string>
-		<string>
-			<key>String_CommlinkOperatingSystem</key>
-			<text>Système d'exploitation de commlink</text>
-		</string>
-		<string>
-			<key>String_LivingPersonaGear</key>
-			<text>Équipement du Persona incarné</text>
-		</string>
+	  <!-- Region Printout Strings -->
+	  <string>
+		  <key>String_UnarmedAttack</key>
+		  <text>Attaque à mains nues</text>
+	  </string>
+	  <string>
+		  <key>String_Unarmed</key>
+		  <text>Mains nues</text>
+	  </string>
+	  <string>
+		  <key>String_LivingPersona</key>
+		  <text>Persona incarné</text>
+	  </string>
+	  <string>
+		  <key>String_BiofeedbackFilter</key>
+		  <text>Filtre de biofeedback</text>
+	  </string>
+	  <string>
+		  <key>String_Commlink</key>
+		  <text>Commlink</text>
+	  </string>
+	  <string>
+		  <key>String_CommlinkOperatingSystem</key>
+		  <text>Système d'exploitation de commlink</text>
+	  </string>
+	  <string>
+		  <key>String_LivingPersonaGear</key>
+		  <text>Équipement du Persona incarné</text>
+	  </string>
 	  <string>
 		<key>String_MountNone</key>
 		<text>Aucun</text>
 	  </string>
 	  <string>
-			<key>String_MountTop</key>
-			<text>Au-dessus du canon</text>
-		</string>
-		<string>
-			<key>String_MountUnder</key>
-			<text>En dessous du canon</text>
-		</string>
-		<string>
-			<key>String_MountBarrel</key>
-			<text>Sur le canon</text>
-		</string>
+		<key>String_MountTop</key>
+		<text>Au-dessus du canon</text>
+	  </string>
+	  <string>
+		<key>String_MountUnder</key>
+		<text>En dessous du canon</text>
+	  </string>
+	  <string>
+		<key>String_MountBarrel</key>
+		<text>Sur le canon</text>
+	  </string>
 	  <string>
 		<key>String_MountSide</key>
 		<text>Latéral</text>
@@ -1084,127 +1088,127 @@
 	  <!-- End Region-->
 	  <!-- Region Common Message Boxes -->
 	  <string>
-			<key>Message_FileNotFound</key>
-			<text>Le fichier de sauvegarde {0} n'a pas pu être trouvé.</text>
+		  <key>Message_FileNotFound</key>
+		  <text>Le fichier de sauvegarde {0} n'a pas pu être trouvé.</text>
 		</string>
 		<string>
-			<key>MessageTitle_FileNotFound</key>
-			<text>Fichier non trouvé</text>
+		  <key>MessageTitle_FileNotFound</key>
+		  <text>Fichier non trouvé</text>
 		</string>
 		<string>
-			<key>Message_RemoveCharacterAssociation</key>
-			<text>Êtes-vous sûr de vouloir supprimer l'association de ce personnage ?\nNote : le fichier de sauvegarde du personnage ne sera pas effacé.</text>
+		  <key>Message_RemoveCharacterAssociation</key>
+		  <text>Êtes-vous sûr de vouloir supprimer l'association de ce personnage ?\nNote : le fichier de sauvegarde du personnage ne sera pas effacé.</text>
 		</string>
 		<string>
-			<key>MessageTitle_RemoveCharacterAssociation</key>
-			<text>Supprimer l'association du personnage</text>
+		  <key>MessageTitle_RemoveCharacterAssociation</key>
+		  <text>Supprimer l'association du personnage</text>
 		</string>
 	  <string>
 		<key>Message_OutdatedChummerSave</key>
 		<text>Ce fichier de sauvegarde a été créé dans une version antérieure de Chummer ({0}) que votre version actuelle ({1}). \nCe fichier peut ne pas se charger correctement. Il est fortement recommandé de mettre à jour vers la dernière version de Chummer. Êtes-vous sûr de vouloir continuer à charger ce personnage ?</text>
 	  </string>
 	  <string>
-			<key>Message_IncorrectGameVersion_SR4</key>
-			<text>Ce fichier de sauvegarde doit être utilisé pour la 4e Édition de Shadowrun, cependant cette version de Chummer est conçue pour la 5e Édition. Veuillez utiliser la version de Chummer conçue pour la 4e Édition pour ouvrir ce fichier.</text>
+		  <key>Message_IncorrectGameVersion_SR4</key>
+		  <text>Ce fichier de sauvegarde doit être utilisé pour la 4e Édition de Shadowrun, cependant cette version de Chummer est conçue pour la 5e Édition. Veuillez utiliser la version de Chummer conçue pour la 4e Édition pour ouvrir ce fichier.</text>
 		</string>
 		<string>
-			<key>Message_IncorrectGameVersion_SR5</key>
-			<text>Ce fichier de sauvegarde doit être utilisé pour la 5e Édition de Shadowrun, cependant cette version de Chummer est conçue pour la 4e Édition. Veuillez utiliser la version de Chummer conçue pour la 5e Édition pour ouvrir ce fichier.</text>
+		  <key>Message_IncorrectGameVersion_SR5</key>
+		  <text>Ce fichier de sauvegarde doit être utilisé pour la 5e Édition de Shadowrun, cependant cette version de Chummer est conçue pour la 4e Édition. Veuillez utiliser la version de Chummer conçue pour la 5e Édition pour ouvrir ce fichier.</text>
 		</string>
 		<string>
-			<key>MessageTitle_IncorrectGameVersion</key>
-			<text>Version incompatible du jeu</text>
+		  <key>MessageTitle_IncorrectGameVersion</key>
+		  <text>Version incompatible du jeu</text>
 		</string>
 	  <!-- End Region -->
 	  <!-- Region Attributes -->
 	  <string>
-			<key>String_AttributeBODLong</key>
-			<text>Constitution</text>
-		</string>
-		<string>
-			<key>String_AttributeBODShort</key>
-			<text>CON</text>
-		</string>
-		<string>
-			<key>String_AttributeAGILong</key>
-			<text>Agilité</text>
-		</string>
-		<string>
-			<key>String_AttributeAGIShort</key>
-			<text>AGI</text>
-		</string>
-		<string>
-			<key>String_AttributeREALong</key>
-			<text>Réaction</text>
-		</string>
-		<string>
-			<key>String_AttributeREAShort</key>
-			<text>RÉA</text>
-		</string>
-		<string>
-			<key>String_AttributeSTRLong</key>
-			<text>Force</text>
-		</string>
-		<string>
-			<key>String_AttributeSTRShort</key>
-			<text>FOR</text>
-		</string>
-		<string>
-			<key>String_AttributeCHALong</key>
-			<text>Charisme</text>
-		</string>
-		<string>
-			<key>String_AttributeCHAShort</key>
-			<text>CHA</text>
-		</string>
-		<string>
-			<key>String_AttributeINTLong</key>
-			<text>Intuition</text>
-		</string>
-		<string>
-			<key>String_AttributeINTShort</key>
-			<text>INT</text>
-		</string>
-		<string>
-			<key>String_AttributeLOGLong</key>
-			<text>Logique</text>
-		</string>
-		<string>
-			<key>String_AttributeLOGShort</key>
-			<text>LOG</text>
-		</string>
-		<string>
-			<key>String_AttributeWILLong</key>
-			<text>Volonté</text>
-		</string>
-		<string>
-			<key>String_AttributeWILShort</key>
-			<text>VOL</text>
-		</string>
-		<string>
-			<key>String_AttributeEDGLong</key>
-			<text>Chance</text>
-		</string>
-		<string>
-			<key>String_AttributeEDGShort</key>
-			<text>CHC</text>
-		</string>
-		<string>
-			<key>String_AttributeMAGLong</key>
-			<text>Magie</text>
-		</string>
-		<string>
-			<key>String_AttributeMAGShort</key>
-			<text>MAG</text>
-		</string>
-		<string>
-			<key>String_AttributeRESLong</key>
-			<text>Résonance</text>
-		</string>
-		<string>
-			<key>String_AttributeRESShort</key>
-			<text>RÉS</text>
-		</string>
+		<key>String_AttributeBODLong</key>
+		<text>Constitution</text>
+	  </string>
+	  <string>
+		<key>String_AttributeBODShort</key>
+		<text>CON</text>
+	  </string>
+	  <string>
+		<key>String_AttributeAGILong</key>
+		<text>Agilité</text>
+	  </string>
+	  <string>
+		<key>String_AttributeAGIShort</key>
+		<text>AGI</text>
+	  </string>
+	  <string>
+		<key>String_AttributeREALong</key>
+		<text>Réaction</text>
+	  </string>
+	  <string>
+		<key>String_AttributeREAShort</key>
+		<text>RÉA</text>
+	  </string>
+	  <string>
+		<key>String_AttributeSTRLong</key>
+		<text>Force</text>
+	  </string>
+	  <string>
+		<key>String_AttributeSTRShort</key>
+		<text>FOR</text>
+	  </string>
+	  <string>
+		<key>String_AttributeCHALong</key>
+		<text>Charisme</text>
+	  </string>
+	  <string>
+		<key>String_AttributeCHAShort</key>
+		<text>CHA</text>
+	  </string>
+	  <string>
+		<key>String_AttributeINTLong</key>
+		<text>Intuition</text>
+	  </string>
+	  <string>
+		<key>String_AttributeINTShort</key>
+		<text>INT</text>
+	  </string>
+	  <string>
+		<key>String_AttributeLOGLong</key>
+		<text>Logique</text>
+	  </string>
+	  <string>
+		<key>String_AttributeLOGShort</key>
+		<text>LOG</text>
+	  </string>
+	  <string>
+		<key>String_AttributeWILLong</key>
+		<text>Volonté</text>
+	  </string>
+	  <string>
+		<key>String_AttributeWILShort</key>
+		<text>VOL</text>
+	  </string>
+	  <string>
+		<key>String_AttributeEDGLong</key>
+		<text>Chance</text>
+	  </string>
+	  <string>
+		<key>String_AttributeEDGShort</key>
+		<text>CHC</text>
+	  </string>
+	  <string>
+		<key>String_AttributeMAGLong</key>
+		<text>Magie</text>
+	  </string>
+	  <string>
+		<key>String_AttributeMAGShort</key>
+		<text>MAG</text>
+	  </string>
+	  <string>
+		<key>String_AttributeRESLong</key>
+		<text>Résonance</text>
+	  </string>
+	  <string>
+		<key>String_AttributeRESShort</key>
+		<text>RÉS</text>
+	  </string>
 	  <string>
 		<key>String_AttributeDEPLong</key>
 		<text>Profondeur</text>
@@ -1214,13 +1218,13 @@
 		<text>PRO</text>
 	  </string>
 	  <string>
-			<key>String_AttributeINILong</key>
-			<text>Initiative</text>
-		</string>
-		<string>
-			<key>String_AttributeINIShort</key>
-			<text>INI</text>
-		</string>
+		<key>String_AttributeINILong</key>
+		<text>Initiative</text>
+	  </string>
+	  <string>
+		<key>String_AttributeINIShort</key>
+		<text>INI</text>
+	  </string>
 	  <string>
 		<key>String_AttributeESSLong</key>
 		<text>Essence</text>
@@ -1232,121 +1236,121 @@
 	  <!-- End Region -->
 	  <!-- Region Main Window -->
 	  <string>
-			<key>Title_CreateNewCharacter</key>
-			<text>Créer un nouveau perso</text>
-		</string>
+		<key>Title_CreateNewCharacter</key>
+		<text>Créer un nouveau perso</text>
+	  </string>
 	  <string>
 		<key>String_CharacterRoster</key>
 		<text>Liste des persos</text>
 	  </string>
 	  <string>
-			<key>Title_CareerMode</key>
-			<text>Mode carrière</text>
+		<key>Title_CareerMode</key>
+		<text>Mode carrière</text>
 		</string>
-		<string>
-			<key>Title_CreateMode</key>
-			<text>Mode création</text>
-		</string>
-		<string>
-			<key>Message_Main_RunningWild</key>
-			<text>Running Wild doit être un supplément selectionné pour pouvoir créer une créature.</text>
-		</string>
-		<string>
-			<key>MessageTitle_Main_RunningWild</key>
-			<text>Supplément requis</text>
-		</string>
+	  <string>
+		<key>Title_CreateMode</key>
+		<text>Mode création</text>
+	  </string>
+	  <string>
+		<key>Message_Main_RunningWild</key>
+		<text>Running Wild doit être un supplément selectionné pour pouvoir créer une créature.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_Main_RunningWild</key>
+		<text>Supplément requis</text>
+	  </string>
 	  <string>
 		<key>Menu_Main_IssueTracker</key>
 		<text>Issue Tracker</text>
 	  </string>
 	  <string>
-			<key>Menu_Main_File</key>
-			<text>&amp;Fichier</text>
-		</string>
+		<key>Menu_Main_File</key>
+		<text>&amp;Fichier</text>
+	  </string>
 	  <string>
 		<key>Menu_Main_ClearUnpinnedItems</key>
 		<text>&amp;Effacer les éléments non épinglés</text>
 	  </string>
 	  <string>
-			<key>Menu_Main_Edit</key>
-			<text>É&amp;dition</text>
-		</string>
-		<string>
-			<key>Menu_Main_Tools</key>
-			<text>&amp;Outils</text>
-		</string>
-		<string>
-			<key>Menu_Main_Window</key>
-			<text>F&amp;enêtres</text>
-		</string>
-		<string>
-			<key>Menu_Main_Help</key>
-			<text>&amp;Aide</text>
-		</string>
-		<string>
-			<key>Menu_Main_NewCharater</key>
-			<text>&amp;Nouveau personnage</text>
-		</string>
-		<string>
-			<key>Menu_Main_NewCritter</key>
-			<text>Nouvelle &amp;créature</text>
-		</string>
-		<string>
-			<key>Menu_Main_Open</key>
-			<text>&amp;Ouvrir</text>
-		</string>
-		<string>
-			<key>Menu_Main_PrintMultiple</key>
-			<text>Imprimer &amp;plusieurs feuilles</text>
-		</string>
-		<string>
-			<key>Menu_Main_Exit</key>
-			<text>&amp;Quitter</text>
-		</string>
-		<string>
-			<key>Menu_Main_DiceRoller</key>
-			<text>&amp;Lanceur de dés</text>
-		</string>
-		<string>
-			<key>Menu_Main_Options</key>
-			<text>&amp;Options</text>
-		</string>
-		<string>
-			<key>Menu_Main_Update</key>
-			<text>&amp;Mises à jour</text>
-		</string>
-		<string>
-			<key>Menu_Main_Omae</key>
-			<text>Omae</text>
-		</string>
-		<string>
-			<key>Menu_Main_NewWindow</key>
-			<text>&amp;Nouvelle fenêtre</text>
-		</string>
-		<string>
-			<key>Menu_Main_CloseAll</key>
-			<text>&amp;Fermer toutes les fenêtres</text>
-		</string>
-		<string>
-			<key>Menu_Main_ChummerWiki</key>
-			<text>&amp;Wiki de Chummer (anglais)</text>
-		</string>
+		<key>Menu_Main_Edit</key>
+		<text>É&amp;dition</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Tools</key>
+		<text>&amp;Outils</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Window</key>
+		<text>F&amp;enêtres</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Help</key>
+		<text>&amp;Aide</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_NewCharater</key>
+		<text>&amp;Nouveau personnage</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_NewCritter</key>
+		<text>Nouvelle &amp;créature</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Open</key>
+		<text>&amp;Ouvrir</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_PrintMultiple</key>
+		<text>Imprimer &amp;plusieurs feuilles</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Exit</key>
+		<text>&amp;Quitter</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_DiceRoller</key>
+		<text>&amp;Lanceur de dés</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Options</key>
+		<text>&amp;Options</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Update</key>
+		<text>&amp;Mises à jour</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_Omae</key>
+		<text>Omae</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_NewWindow</key>
+		<text>&amp;Nouvelle fenêtre</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_CloseAll</key>
+		<text>&amp;Fermer toutes les fenêtres</text>
+	  </string>
+	  <string>
+		<key>Menu_Main_ChummerWiki</key>
+		<text>&amp;Wiki de Chummer (anglais)</text>
+	  </string>
 	  <string>
 		<key>Menu_Main_ChummerDiscord</key>
 		<text>Chummer Discord</text>
 	  </string>
 	  <string>
-			<key>Menu_Main_RevisionHistory</key>
-			<text>&amp;Notes de versions (en anglais)</text>
-		</string>
+		<key>Menu_Main_RevisionHistory</key>
+		<text>&amp;Notes de versions (en anglais)</text>
+	  </string>
 	  <string>
 		<key>Menu_Main_DumpshockThread</key>
 		<text>&amp;Fil Dumpshock</text>
 	  </string>
 	  <string>
-			<key>Menu_Main_About</key>
-			<text>&amp;À propos de...</text>
-		</string>
+		<key>Menu_Main_About</key>
+		<text>&amp;À propos de...</text>
+	  </string>
 	  <string>
 		<key>Menu_Main_Translator</key>
 		<text>Traducteur</text>
@@ -1442,149 +1446,149 @@
 	  <!-- End Region -->
 	  <!-- Region Create/Career Window -->
 	  <string>
-			<key>Menu_Special</key>
-			<text>&amp;Spécial</text>
-		</string>
-		<string>
-			<key>Menu_FileSave</key>
-			<text>&amp;Sauvegarder</text>
-		</string>
-		<string>
-			<key>Menu_FileSaveAs</key>
-			<text>&amp;Sauvegarder sous...</text>
-		</string>
+		<key>Menu_Special</key>
+		<text>&amp;Spécial</text>
+	  </string>
+	  <string>
+		<key>Menu_FileSave</key>
+		<text>&amp;Sauvegarder</text>
+	  </string>
+	  <string>
+		<key>Menu_FileSaveAs</key>
+		<text>&amp;Sauvegarder sous...</text>
+	  </string>
 	  <string>
 		<key>Menu_FileSaveAsCreated</key>
 		<text>Sauvegarder comme &amp;créé</text>
 	  </string>
 	  <string>
-			<key>Menu_FileExport</key>
-			<text>Exporter</text>
-		</string>
-		<string>
-			<key>Menu_FilePrint</key>
-			<text>&amp;Imprimer</text>
-		</string>
+		<key>Menu_FileExport</key>
+		<text>Exporter</text>
+	  </string>
+	  <string>
+		<key>Menu_FilePrint</key>
+		<text>&amp;Imprimer</text>
+	  </string>
 	  <string>
 		<key>Menu_FilePrintPreview</key>
 		<text>&amp;Aperçu avant impression</text>
 	  </string>
 	  <string>
-			<key>Menu_FileClose</key>
-			<text>&amp;Fermer</text>
-		</string>
-		<string>
-			<key>Menu_SpecialAddCyberwareSuite</key>
-			<text>Ajouter une suite &amp;cybernétique</text>
-		</string>
-		<string>
-			<key>Menu_SpecialAddBiowareSuite</key>
-			<text>Ajouter une suite &amp;bioware</text>
-		</string>
-		<string>
-			<key>Menu_SpecialCreateCyberwareSuite</key>
-			<text>Créer une suite cybernétique</text>
-		</string>
-		<string>
-			<key>Menu_SpecialCreateBiowareSuite</key>
-			<text>Créer une suite bioware</text>
-		</string>
-		<string>
-			<key>Menu_SpecialAddPACKSKit</key>
-			<text>Ajouter un kit &amp;PACKS</text>
-		</string>
-		<string>
-			<key>Menu_SpecialCreatePACKSKit</key>
-			<text>Créer un kit PACKS</text>
-		</string>
+		<key>Menu_FileClose</key>
+		<text>&amp;Fermer</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialAddCyberwareSuite</key>
+		<text>Ajouter une suite &amp;cybernétique</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialAddBiowareSuite</key>
+		<text>Ajouter une suite &amp;bioware</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialCreateCyberwareSuite</key>
+		<text>Créer une suite cybernétique</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialCreateBiowareSuite</key>
+		<text>Créer une suite bioware</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialAddPACKSKit</key>
+		<text>Ajouter un kit &amp;PACKS</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialCreatePACKSKit</key>
+		<text>Créer un kit PACKS</text>
+	  </string>
 	  <string>
 		<key>Menu_SpecialChangePriorities</key>
 		<text>Changer de &amp;priorité</text>
 	  </string>
 	  <string>
-			<key>Menu_SpecialChangeMetatype</key>
-			<text>Changer de &amp;métatype</text>
-		</string>
+		<key>Menu_SpecialChangeMetatype</key>
+		<text>Changer de &amp;métatype</text>
+	  </string>
 	  <string>
 		<key>Menu_SpecialChangeOptions</key>
 		<text>Changer le fichier d'&amp;options</text>
 	  </string>
 	  <string>
-			<key>Menu_SpecialConvertToMutantCritter</key>
-			<text>Convertir en créature mutante</text>
-		</string>
-		<string>
-			<key>Menu_SpecialConvertToToxicCritter</key>
-			<text>Convertir en créature toxique</text>
-		</string>
-		<string>
-			<key>Menu_SpecialConverToCyberzombie</key>
-			<text>Convertir en cyberzombie</text>
-		</string>
+		<key>Menu_SpecialConvertToMutantCritter</key>
+		<text>Convertir en créature mutante</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialConvertToToxicCritter</key>
+		<text>Convertir en créature toxique</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialConverToCyberzombie</key>
+		<text>Convertir en cyberzombie</text>
+	  </string>
 	  <string>
 		<key>String_MutantCritter</key>
 		<text>Animal mutant</text>
 	  </string>
 	  <string>
-			<key>Menu_SpecialReduceAttribute</key>
-			<text>Réduire l'attribut</text>
-		</string>
-		<string>
-			<key>Menu_SpecialCloningMachine</key>
-			<text>Cloner ce personnage</text>
-		</string>
-		<string>
-			<key>Menu_SpecialReapplyImprovements</key>
-			<text>Ré-appliquer les améliorations</text>
-		</string>
-		<string>
-			<key>Menu_SpecialPossessLiving</key>
-			<text>Posséder / habiter un réceptacle vivant</text>
-		</string>
-		<string>
-			<key>Menu_SpecialPossessInanimate</key>
-			<text>Posséder / habiter un réceptacle inanimé</text>
-		</string>
-		<string>
-			<key>Menu_SpecialBPAvailLimit</key>
-			<text>Modifier la limite de PC / disponibilité</text>
-		</string>
+		<key>Menu_SpecialReduceAttribute</key>
+		<text>Réduire l'attribut</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialCloningMachine</key>
+		<text>Cloner ce personnage</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialReapplyImprovements</key>
+		<text>Ré-appliquer les améliorations</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialPossessLiving</key>
+		<text>Posséder / habiter un réceptacle vivant</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialPossessInanimate</key>
+		<text>Posséder / habiter un réceptacle inanimé</text>
+	  </string>
+	  <string>
+		<key>Menu_SpecialBPAvailLimit</key>
+		<text>Modifier la limite de PC / disponibilité</text>
+	  </string>
 	  <string>
 		<key>Menu_SpecialConvertToFreeSprite</key>
 		<text>Convertir en esprit libre</text>
 	  </string>
 	  <string>
-			<key>Menu_AddAsPlugin</key>
-			<text>&amp;Installer une extension</text>
-		</string>
-		<string>
-			<key>Menu_AddNaturalWeapon</key>
-			<text>Créer arme naturelle</text>
-		</string>
-		<string>
-			<key>Menu_AddAccessory</key>
-			<text>Ajouter un &amp;accessoire</text>
-		</string>
-		<string>
-			<key>Menu_AddModification</key>
-			<text>Ajouter une &amp;modification</text>
-		</string>
-		<string>
-			<key>Menu_AddUnderbarrelWeapon</key>
-			<text>Attacher une arme sous le canon</text>
-		</string>
-		<string>
-			<key>Menu_NameWeapon</key>
-			<text>Nommer cette arme</text>
-		</string>
-		<string>
-			<key>Menu_NameVehicle</key>
-			<text>Nommer ce véhicle</text>
-		</string>
-		<string>
-			<key>Menu_NameArmor</key>
-			<text>Nommer cette armure</text>
-		</string>
+		<key>Menu_AddAsPlugin</key>
+		<text>&amp;Installer une extension</text>
+	  </string>
+	  <string>
+		<key>Menu_AddNaturalWeapon</key>
+		<text>Créer arme naturelle</text>
+	  </string>
+	  <string>
+		<key>Menu_AddAccessory</key>
+		<text>Ajouter un &amp;accessoire</text>
+	  </string>
+	  <string>
+		<key>Menu_AddModification</key>
+		<text>Ajouter une &amp;modification</text>
+	  </string>
+	  <string>
+		<key>Menu_AddUnderbarrelWeapon</key>
+		<text>Attacher une arme sous le canon</text>
+	  </string>
+	  <string>
+		<key>Menu_NameWeapon</key>
+		<text>Nommer cette arme</text>
+	  </string>
+	  <string>
+		<key>Menu_NameVehicle</key>
+		<text>Nommer ce véhicle</text>
+	  </string>
+	  <string>
+		<key>Menu_NameArmor</key>
+		<text>Nommer cette armure</text>
+	  </string>
 	  <string>
 		<key>Menu_NameLifestyle</key>
 		<text>Nommer ce niveau de vie</text>
@@ -1878,6 +1882,10 @@
 		<text>Vous ne pouvez pas gagner plus de {0} au travers de défauts.</text>
 	  </string>
 	  <string>
+		<key>Message_NegativeQualityAndMetatypeLimit</key>
+		<text>Vous ne pouvez pas gagner plus de {0} à la qualité négative et au métatype.</text>
+	  </string>
+	  <string>
 		<key>MessageTitle_NegativeQualityLimit</key>
 		<text>Défauts</text>
 	  </string>
@@ -2118,6 +2126,738 @@
 		<text>Sélectionnez un art martial</text>
 	  </string>
 	  <string>
+		<key>MessageTitle_SelectLimitModifier</key>
+		<text>Sélectionnez une limite modifiée</text>
+	  </string>
+	  <string>
+		<key>Message_PositiveQualityLimit</key>
+		<text>Vous ne pouvez pas dépenser plus de {0} dans les avantages.</text>
+	  </string>
+	  <string>
+		<key>Message_PositiveQualityMoreThanNegativeQuality</key>
+		<text>Vous ne pouvez pas dépenser plus en avantages qu'en défauts.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_PositiveQualityLimit</key>
+		<text>Avantages</text>
+	  </string>
+	  <string>
+		<key>Message_MetavariantQuality</key>
+		<text>Vous ne pouvez pas supprimer des traits provenants de votre métatype ou métavariante.</text>
+	  </string>
+	  <string>
+		<key>Message_ImprovementQuality</key>
+		<text>Cette qualité a été ajoutée par {0}. Il faut l'enlever pour enlever cette qualité.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_MetavariantQuality</key>
+		<text>Impossible de supprimer ce trait</text>
+	  </string>
+	  <string>
+		<key>Message_MetavariantQualitySwap</key>
+		<text>Vous ne pouvez pas remplacer des traits provenants de votre métatype ou métavariante.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_MetavariantQualitySwap</key>
+		<text>Impossible de remplacer ce trait</text>
+	  </string>
+	  <string>
+		<key>Message_SpellLimit</key>
+		<text>Vous ne pouvez pas avoir plus de sorts que le double de votre score de compétence de lancement de sorts ou lancement de sorts rituels (le plus grand des deux).</text>
+	  </string>
+	  <string>
+		<key>Message_PrioritySpellLimit</key>
+		<text>Vous ne pouvez pas avoir plus de sorts que ceux permis par votre priorité magique.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SpellLimit</key>
+		<text>Lime du nombre de sorts</text>
+	  </string>
+	  <string>
+		<key>Message_BoundSpiritLimit</key>
+		<text>Le nombre d'esprits vous étant liés ne peut pas excéder votre score de Charisme.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_BoundSpiritLimit</key>
+		<text>Limite du nombre d'esprits liés</text>
+	  </string>
+	  <string>
+		<key>Message_UnregisteredSpriteLimit</key>
+		<text>Vous ne pouvez pas avoir plus d'un sprite non enregistré à la fois.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_UnregisteredSpriteLimit</key>
+		<text>Limite du nombre de sprites non enregistrés</text>
+	  </string>
+	  <string>
+		<key>Message_RegisteredSpriteLimit</key>
+		<text>Le nombre de sprites enregistrés ne peut pas excéder votre score de Logique.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_RegisteredSpriteLimit</key>
+		<text>Limite du nombre de sprites enregistrés</text>
+	  </string>
+	  <string>
+		<key>Message_CannotRemoveCyberware</key>
+		<text>Cet article ne peut pas être retiré car il est inclu de base dans une pièce de cyberware.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotRemoveCyberware</key>
+		<text>Impossible de retirer le cyberware</text>
+	  </string>
+	  <string>
+		<key>Message_ComplexFormLimit</key>
+		<text>Le nombre de vos formes complexes ne peut excéder le double de votre score de Logique.</text>
+	  </string>
+	  <string>
+		<key>Message_PriorityComplexFormLimit</key>
+		<text>Votre nombre de formes complexes ne peut pas dépasser le nombre défini par votre priorité de Résonance.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ComplexFormLimit</key>
+		<text>Limite du nombre de formes complexes</text>
+	  </string>
+	  <string>
+		<key>Message_CannotRemoveQualityWeapon</key>
+		<text>Vous ne pouvez pas retirer une arme issue d'un avantage depuis cet onglet. Vous devez plutôt retirer l'avantage depuis l'onglet Commun.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotRemoveQualityWeapon</key>
+		<text>Impossible de supprimer une arme issue d'un avantage</text>
+	  </string>
+	  <string>
+		<key>Message_CannotRemoveCyberweapon</key>
+		<text>Vous ne pouvez pas retirer une cyberarme depuis cet onglet. Vous devez plutôt retirer la cyberarme depuis l'onglet cyberware.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotRemoveCyberweapon</key>
+		<text>Impossible de retirer la cyberarme</text>
+	  </string>
+	  <string>
+		<key>Message_CannotRemoveGearWeapon</key>
+		<text>Vous ne pouvez pas retirer une arme créée par l'équipement depuis cet onglet. Vous devez plutôt retirer l'arme depuis l'onglet équipement.</text>
+	  </string>
+	  <string>
+		<key>Message_CannotRemoveGearWeaponVehicle</key>
+		<text>Vous ne pouvez pas retirer une arme créée par l'équipement depuis cet onglet. Vous devez plutôt retirer l'équipement depuis l'onglet véhicules.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotRemoveGearWeapon</key>
+		<text>Impossible de retirer l'arme de l'équipement</text>
+	  </string>
+	  <string>
+		<key>Message_CannotRemoveVehicleMod</key>
+		<text>Vous ne pouvez pas retirer une modification qui vient avec un véhicule.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotRemoveVehicleMod</key>
+		<text>Impossible de retirer la modification</text>
+	  </string>
+	  <string>
+		<key>Message_CannotSelectMetamagic</key>
+		<text>Votre grade d'initié doit être plus grand que 0 pour sélectionner des métamagies.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotSelectMetamagic</key>
+		<text>Impossible de sélectionner une métamagie</text>
+	  </string>
+	  <string>
+		<key>Message_CannotSelectEcho</key>
+		<text>Votre grade de submersion doit être plus grand que 0 pour sélectionner des échos.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotSelectEcho</key>
+		<text>Impossible de sélectionner un écho</text>
+	  </string>
+	  <string>
+		<key>Message_AdditionalMetamagic</key>
+		<text>Une métamagie additionelle coûte {0} Karma. Êtes-vous sûr de vouloir ajouter une nouvelle métamagie ?</text>
+	  </string>
+	  <string>
+		<key>Message_AdditionalMetamagicLimit</key>
+		<text>Vous pouvez seulement avoir un nombre de métamagies égal à votre MAG + Grade d'Initié.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_AdditionalMetamagic</key>
+		<text>Ajouter une métamagie...</text>
+	  </string>
+	  <string>
+		<key>Message_AdditionalEcho</key>
+		<text>Un écho additionel va vous coûter {0} Karma. Êtes-vous sûr de vouloir ajouter un nouvel écho ?</text>
+	  </string>
+	  <string>
+		<key>Message_AdditionalEchoLimit</key>
+		<text>Vous pouvez seulement avoir un nombre d'échos égal à votre RÉS + Grade de Submersion.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_AdditionalEcho</key>
+		<text>Ajouter un écho...</text>
+	  </string>
+	  <string>
+		<key>Message_CannotIncreaseInitiateGrade</key>
+		<text>Votre grade d'initié ne peut pas excéder votre attribut de Magie.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotIncreaseInitiateGrade</key>
+		<text>Impossible d'augmenter le grade d'initié</text>
+	  </string>
+	  <string>
+		<key>Message_CannotIncreaseSubmersionGrade</key>
+		<text>Votre grade de submersion ne peut pas excéder votre attribut de Résonance.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotIncreaseSubmersionGrade</key>
+		<text>Impossible d'augmenter le grade de submersion</text>
+	  </string>
+	  <string>
+		<key>Message_HighContact</key>
+		<text>Vous ne pouvez pas avoir un contact qui vaut plus de 7 points à la génération de personnages.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectCyberware</key>
+		<text>Vous devez d'abord sélectionner une piece de cyberware avant de pouvoir lui installer une extension.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectCyberware</key>
+		<text>Sélectionnez un cyberware</text>
+	  </string>
+	  <string>
+		<key>Message_SelectWeaponAccessory</key>
+		<text>Vous devez d'abord sélectionner une arme avant de pouvoir lui associer un accessoire.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectWeaponMod</key>
+		<text>Vous devez d'abord sélectionner une arme avant de pouvoir la modifier.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectWeaponName</key>
+		<text>Vous devez d'abord sélectionner une arme avant de pouvoir la nommer.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectWeaponUnderbarrel</key>
+		<text>Vous devez d'abord sélectionner une arme avant de pouvoir lui attacher une autre arme sous le canon.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectWeapon</key>
+		<text>Sélectionnez une arme</text>
+	  </string>
+	  <string>
+		<key>Message_CyberwareUnderbarrel</key>
+		<text>Les armes sous le canon ne peuvent pas être attachées aux cyberarmes.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_WeaponUnderbarrel</key>
+		<text>Impossible d'attacher une arme sous le canon</text>
+	  </string>
+	  <string>
+		<key>Message_CannotFindWeapon</key>
+		<text>L'arme n'a pas été trouvée. Retirez l'arme et réajoutez-la, parce que le nom ou d'autres détails ont peut-être été modifiés.</text>
+	  </string>
+	  <string>
+		<key>Message_CannotModifyWeapon</key>
+		<text>Aucun accessoire ne peut être associé à cette arme.</text>
+	  </string>
+	  <string>
+		<key>Message_CannotModifyWeaponMod</key>
+		<text>Aucune modification ne peut être associée à cette arme.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotModifyWeapon</key>
+		<text>L'arme ne peut pas être modifiée</text>
+	  </string>
+	  <string>
+		<key>Message_WeaponGear</key>
+		<text>Impossible d'ajouter de l'équipement à cet accessoire d'arme.</text>
+	  </string>
+	  <string>
+		<key>Message_CyberweaponNoAccessory</key>
+		<text>Les accessoires ne peuvent pas être associés aux cyberarmes.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CyberweaponNoAccessory</key>
+		<text>Impossible d'associer des accessoires</text>
+	  </string>
+	  <string>
+		<key>Message_CyberwareGear</key>
+		<text>Impossible d'ajouter de l'équipement à cette partie de cyberware.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CyberwareGear</key>
+		<text>Impossible d'ajouter de l'équipement</text>
+	  </string>
+	  <string>
+		<key>Message_SelectArmor</key>
+		<text>Vous devez d'abord sélectionner une pièce d'armure avant de pouvoir la modifier.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectArmorName</key>
+		<text>Vous devez d'abord sélectionner une pièce d'armure avant de pouvoir la nommer.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectArmor</key>
+		<text>Sélectionnez une Armure</text>
+	  </string>
+	  <string>
+		<key>Message_SelectGear</key>
+		<text>Vous devez d'abord sélectionner une pièce d'équipement avant de pouvoir y installer une extension.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectGearName</key>
+		<text>Vous devez d'abord sélectionner une pièce d'équipement avant de pouvoir la nommer.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectGear</key>
+		<text>Sélectionnez un équipement</text>
+	  </string>
+	  <string>
+		<key>Message_SelectVehicle</key>
+		<text>Vous devez d'abord sélectionner un véhicule avant de pouvoir le modifier.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectVehicleName</key>
+		<text>Vous devez d'abord sélectionner un véhicule avant de pouvoir le nommer.</text>
+	  </string>
+	  <string>
+		<key>Message_SelectVehicleLocation</key>
+		<text>Vous devez d'abord sélectionner un véhicule pour y ajouter un groupe d'équipement.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectVehicle</key>
+		<text>Sélectionnez un véhicule</text>
+	  </string>
+	  <string>
+		<key>Message_CannotAddWeapon</key>
+		<text>Les armes ne peuvent être accueillies que par des montures d'armes.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotAddWeapon</key>
+		<text>Impossible d'attacher l'arme</text>
+	  </string>
+	  <string>
+		<key>Message_VehicleWeaponAccessories</key>
+		<text>Cet accessoire ne peut être associé qu'à une arme de véhicule.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_VehicleWeaponAccessories</key>
+		<text>Impossible d'associer l'accessoire d'arme</text>
+	  </string>
+	  <string>
+		<key>Message_VehicleWeaponMods</key>
+		<text>La modification d'arme ne peut être apportée qu'à une arme de véhicule.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_VehicleWeaponMods</key>
+		<text>Modification d'arme impossible</text>
+	  </string>
+	  <string>
+		<key>Message_VehicleWeaponUnderbarrel</key>
+		<text>Ici les armes sous le canon ne peuvent être attachées qu'aux armes de véhicule.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_VehicleWeaponUnderbarrel</key>
+		<text>Impossible d'attacher une arme sous le canon</text>
+	  </string>
+	  <string>
+		<key>Message_SelectGearVehicle</key>
+		<text>Vous devez d'abord sélectionner un véhicule avant de lui ajouter de l'équipement.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectGearVehicle</key>
+		<text>Sélectionnez un véhicule</text>
+	  </string>
+	  <string>
+		<key>Message_ModifyVehicleGear</key>
+		<text>Vous devez d'abord sélectionner une pièce d'équipement avant de pouvoir la modifier.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ModifyVehicleGear</key>
+		<text>Sélectionnez une pièce d'équipement du véhicule</text>
+	  </string>
+	  <string>
+		<key>Message_SelectComplexForm</key>
+		<text>Vous devez d'abord sélectionner une forme complexe avant de pouvoir lui ajouter une option.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectComplexForm</key>
+		<text>Sélectionnez une forme complexe</text>
+	  </string>
+	  <string>
+		<key>Message_CannotAddComplexFormOption</key>
+		<text>Cette forme complexe ne permet pas d'options.</text>
+	  </string>
+	  <string>
+		<key>Message_ConntAddComplexFormOptionLimit</key>
+		<text>Cette Forme Complexe ne peut pas avoir plus de {0} options à cause de son Indice.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotAddComplexFormOption</key>
+		<text>Impossible d'ajouter l'option</text>
+	  </string>
+	  <string>
+		<key>Message_FocusMaximumForce</key>
+		<text>La Puissance totale de tous les Focus liés ne peut pas excéder 5 × MAG.</text>
+	  </string>
+	  <string>
+		<key>Message_FocusMaximumNumber</key>
+		<text>Le nombre maximum de Focus pouvant être liés est égal à MAG.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_FocusMaximum</key>
+		<text>Impossible de lier le Focus</text>
+	  </string>
+	  <string>
+		<key>Message_UnbindFocus</key>
+		<text>Êtes-vous sûr de vouloir délier ce Focus ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_UnbindFocus</key>
+		<text>Délier le focus</text>
+	  </string>
+	  <string>
+		<key>Message_AttributeMaximum</key>
+		<text>Vous ne pouvez pas avoir plus d'un Attribut à son maximum à la création du personnage.</text>
+	  </string>
+	  <string>
+		<key>Message_AttributeBuildPoints</key>
+		<text>Vous ne pouvez pas dépenser plus de {0} dans les Attributs.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_Attribute</key>
+		<text>Règle d'Attribut</text>
+	  </string>
+	  <string>
+		<key>Message_CapacityReached</key>
+		<text>Cette pièce d'équipement a atteint sa limite de Capacité.</text>
+	  </string>
+	  <string>
+		<key>Message_CapacityReachedValidate</key>
+		<text>{0} pièces d'équipement ont atteint leur limite de Capacité.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CapacityReached</key>
+		<text>Capacité atteinte</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidBeginning</key>
+		<text>Ce personnage n'est pas valide sur les points suivants :</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidAttributeExcess</key>
+		<text>{0} de plus que la limite de points d'attribut allouée</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidSpecialExcess</key>
+		<text>{0} de plus que la limite de points d'attribut spécial allouée</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidSkillGroupExcess</key>
+		<text>{0} de plus que la limite de points de groupe de compétences allouée</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidActiveSkillExcess</key>
+		<text>{0} de plus que la limite de points de compétence active allouée</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidActiveSkillExcessSpecializations</key>
+		<text>Une ou plusieurs compétences actives ont plus d'une spécialisation :</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidKnowledgeSkillExcess</key>
+		<text>{0} de plus que la limite de points de compétence des connaissances allouées</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidPointExcess</key>
+		<text>{0} d'utilisés au delà de la limite autorisée</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidNuyenExcess</key>
+		<text>{0} dépensés au dessus du total disponible</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidStolenNuyenExcess</key>
+		<text>{0} de plus que votre total Nuyen pour le équipement volé</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidEssenceExcess</key>
+		<text>{0} d'Essence dépensée au delà de la limite autorisée</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidNoTradition</key>
+		<text>Aucune Tradition sélectionnée</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidNoStream</key>
+		<text>Aucun Courant de Résonnance n'a été sélectionné</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidAvail</key>
+		<text>{0} objet(s) de Disponibilité supérieure à {1} au delà de la limite autorisée</text>
+	  </string>
+	  <string>
+		<key>Message_RestrictedGearUsed</key>
+		<text>Un équipement réglementé est utilisé pour :\n{0}</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidCyberwareGrades</key>
+		<text>La limite de grade Cyber/Bioware est dépassée pour les éléments suivants :</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidPowerPoints</key>
+		<text>{0} de plus que les points de pouvoir maximum des adeptes ({1})</text>
+	  </string>
+	  <string>
+		<key>Checkbox_PrototypeTranshuman</key>
+		<text>Prototype Transhumain</text>
+	  </string>
+	  <string>
+		<key>Label_CyberlimbAGI</key>
+		<text>Agilité (AGI) :</text>
+	  </string>
+	  <string>
+		<key>Label_CyberlimbSTR</key>
+		<text>Force (FOR) :</text>
+	  </string>
+	  <string>
+		<key>Label_Overclocker</key>
+		<text>Overclocker :</text>
+	  </string>
+	  <string>
+		<key>Label_Visibility</key>
+		<text>Visibilité :</text>
+	  </string>
+	  <string>
+		<key>Label_Control</key>
+		<text>Contrôle :</text>
+	  </string>
+	  <string>
+		<key>Label_Size</key>
+		<text>Taille :</text>
+	  </string>
+	  <string>
+		<key>Label_Flexibility</key>
+		<text>Flexibilité :</text>
+	  </string>
+	  <string>
+		<key>Button_AddMod</key>
+		<text>Ajouter une modification</text>
+	  </string>
+	  <string>
+		<key>Button_DeleteMod</key>
+		<text>Enlever une modification</text>
+	  </string>
+	  <string>
+		<key>Node_AdditionalMods</key>
+		<text>Modifications supplémentaires</text>
+	  </string>
+	  <string>
+		<key>Title_CreateWeaponMount</key>
+		<text>Créer un support d'arme</text>
+	  </string>
+	  <string>
+		<key>Message_OverPrototypeLimit</key>
+		<text>Limite de bioware dépassée pour le prototype transhumain. Actuel : {0} Maximum : {1}</text>
+	  </string>
+	  <string>
+		<key>Message_InvalidExConWare</key>
+		<text>Les éléments suivants de cyberware / bioware limités ne sont pas permis sur un ExCon :</text>
+	  </string>
+	  <string>
+		<key>Message_OverLanguageLimit</key>
+		<text>Trop de compétences linguistiques répertoriées comme maternelles. Actuel : {0} Maximum : {1}</text>
+	  </string>
+	  <string>
+		<key>Message_OverPositiveMetagenicQualities</key>
+		<text>Trop de qualités métagénétiques. Actuel : {0} Maximum : {1}</text>
+	  </string>
+	  <string>
+		<key>Label_MetagenicKarmaValue</key>
+		<text>{0}P/{1}N - max. {2}</text>
+	  </string>
+	  <string>
+		<key>Label_MetagenicKarmaValueAppend</key>
+		<text> (1 Karma)</text>
+	  </string>
+	  <string>
+		<key>Label_SummaryMetagenicQualities</key>
+		<text>Traits métagénétiques</text>
+	  </string>
+	  <string>
+		<key>Message_OverNegativeMetagenicQualities</key>
+		<text>Trop de défauts métagénétiques. Actuel : {0} Maximum : {1}</text>
+	  </string>
+	  <string>
+		<key>Message_MetagenicQualitiesUnbalanced</key>
+		<text>Les défauts métagénétiques sont déséquilibrés. Actuel : {0} Attendu : {1} ou {2}</text>
+	  </string>
+	  <string>
+		<key>Message_MetagenicQualitiesInsufficientKarma</key>
+		<text>1 Karma est nécessaire pour équilibrer les qualités métagéniques négatives et positives. Actuellement disponible : {0}</text>
+	  </string>
+	  <string>
+		<key>Message_MetagenicQualitiesSubtractingKarma</key>
+		<text>1 Karma est nécessaire pour équilibrer les qualités métagéniques négatives et positives. Actuellement disponible : {0}.\nEst-ce acceptable de dépenser ce karma ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_Invalid</key>
+		<text>Personnage non valide</text>
+	  </string>
+	  <string>
+		<key>Message_ExtraKarma</key>
+		<text>{0} points de Karma sont encore disponibles.\nLeur transfert en mode carrière n'est possible que dans la limite de {1} points.\nÊtes-vous sûr de vouloir perdre ces points supplémentaires ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ExtraPoints</key>
+		<text>Points supplémentaires</text>
+	  </string>
+	  <string>
+		<key>Message_ExtraPoints</key>
+		<text>Vous avez {0} points à dépenser pour {1}.\nÊtes-vous sûr de vouloir perdre ces points supplémentaires ?</text>
+	  </string>
+	  <string>
+		<key>Message_NoExtraKarma</key>
+		<text>Vous avez encore {0} karma, mais vous ne pouvez pas le(s) mettre en carrière. Êtes-vous sûr de vouloir perdre ce(s) karma supplémentaire(s) ?</text>
+	  </string>
+	  <string>
+		<key>Message_SumtoTen</key>
+		<text>Votre sélection de priorité doit être égale à {0}. Elle est actuellement {1}.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ExtraKarma</key>
+		<text>Karma supplémentaire</text>
+	  </string>
+	  <string>
+		<key>Message_ExtraNuyen</key>
+		<text>Vous avez {0} nuyen restants mais ne pouvez garder que {1} pour votre carrière.\nÊtes-vous sûr de vouloir perdre ce nombre de nuyen ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ExtraNuyen</key>
+		<text>Nuyen supplémentaires</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmCreate</key>
+		<text>Une fois qu'un personnage a été sauvegardé comme "Prêt pour le jeu", il ne peut plus être modifié en utilisant le système de création. Le personnage est mis en mode "Carrière", où il ne pourra être amélioré qu'avec le Karma.\n\nÊtes-vous bien sûr de vouloir sauvegarder ce personnage tel quel ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ConfirmCreate</key>
+		<text>Confirmez le passage en mode Carrière</text>
+	  </string>
+	  <string>
+		<key>Message_CannotChangeMetatype</key>
+		<text>Vous ne pouvez pas changer de Métatype tant que les Traits suivants, dépendant du Métatype actuel, n'ont pas été retirées.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotChangeMetatype</key>
+		<text>Impossible de changer de Métatype</text>
+	  </string>
+	  <string>
+		<key>Message_CyberwareGradeMismatch</key>
+		<text>Tout le cyberware d'un personnage doit être de même grade pour créer une suite cyberware.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CyberwareGradeMismatch</key>
+		<text>Grade de cyberware non identique</text>
+	  </string>
+	  <string>
+		<key>Message_NoCyberware</key>
+		<text>Ce personnage n'a pas de cyberware.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_NoCyberware</key>
+		<text>Pas de cyberware</text>
+	  </string>
+	  <string>
+		<key>Message_CannotBurnEdge</key>
+		<text>Il ne vous reste plus de Chance à brûler.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotBurnEdge</key>
+		<text>Impossible de brûler un point de Chance</text>
+	  </string>
+	  <string>
+		<key>Message_BurnEdge</key>
+		<text>Êtes-vous sûr de vouloir brûler ce point de Chance ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_BurnEdge</key>
+		<text>Brûler la Chance</text>
+	  </string>
+	  <string>
+		<key>Message_CannotSpendEdge</key>
+		<text>Il ne vous reste plus de Chance à dépenser.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotSpendEdge</key>
+		<text>Impossible de dépenser de la Chance</text>
+	  </string>
+	  <string>
+		<key>Message_CannotRegainEdge</key>
+		<text>Vous ne pouvez pas excéder votre attribut de Chance.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotRegainEdge</key>
+		<text>Impossible de regagner de la Chance</text>
+	  </string>
+	  <string>
+		<key>String_EdgeUse</key>
+		<text>Utiliser de la Chance</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughKarma</key>
+		<text>Vous n'avez pas assez de Karma pour cette dépense.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_NotEnoughKarma</key>
+		<text>Pas assez de Kama</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughMagic</key>
+		<text>Vous n'avez pas assez en magie pour cette amélioration.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_NotEnoughMagic</key>
+		<text>Pas assez en magie</text>
+	  </string>
+	  <string>
+		<key>String_EssenceLoss</key>
+		<text>Perte d'essence</text>
+	  </string>
+	  <string>
+		<key>String_EssenceLossChargen</key>
+		<text>Perte d'Essence (Création du personnage)</text>
+	  </string>
+	  <string>
+		<key>String_SpiritFettering</key>
+		<text>Entrave d'Esprit</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpense</key>
+		<text>Êtes-vous sûr de vouloir dépenser {2} points de karma pour l'amélioration de {0} vers {1} ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseKnowledgeSkill</key>
+		<text>Êtes-vous sûr de vouloir dépenser {2} points de karma pour l'amélioration de {0} à {1} et verrouiller cette compétence à {3} ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaandNuyenExpense</key>
+		<text>Êtes-vous sûr de vouloir dépenser {2} Karma et {3} Nuyen pour améliorer de {0} à {1} ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseSpecialization</key>
+		<text>Êtes-vous sûr de vouloir dépenser {1} points de karma pour changer votre Spécialisation actuelle à {0} ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseEnemy</key>
+		<text>Devez-vous dépenser {0} points de karma pour retirer cet Ennemi ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseSpend</key>
+		<text>Êtes-vous sûr de vouloir dépenser {1} points de karma pour {0} ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseRemove</key>
+		<text>Êtes-vous sûr de vouloir dépenser {1} points de karma pour retirer {0} ?</text>
+	  </string>
+	  <string>
 			<key>Button_AddBundle</key>
 			<text>Ajouter un groupe d'équipement</text>
 		</string>
@@ -2128,514 +2868,6 @@
 		<string>
 			<key>Button_UnEquipAll</key>
 			<text>Déséquiper tout</text>
-		</string>
-		<string>
-			<key>Message_PositiveQualityLimit</key>
-			<text>Vous ne pouvez pas dépenser plus de {0} dans les avantages.</text>
-		</string>
-		<string>
-			<key>MessageTitle_PositiveQualityLimit</key>
-			<text>Avantages</text>
-		</string>
-		<string>
-			<key>Message_MetavariantQuality</key>
-			<text>Vous ne pouvez pas supprimer des traits provenants de votre métatype ou métavariante.</text>
-		</string>
-		<string>
-			<key>MessageTitle_MetavariantQuality</key>
-			<text>Impossible de supprimer ce trait</text>
-		</string>
-		<string>
-			<key>Message_MetavariantQualitySwap</key>
-			<text>Vous ne pouvez pas remplacer des traits provenants de votre métatype ou métavariante.</text>
-		</string>
-		<string>
-			<key>MessageTitle_MetavariantQualitySwap</key>
-			<text>Impossible de remplacer ce trait</text>
-		</string>
-		<string>
-			<key>Message_SpellLimit</key>
-			<text>Vous ne pouvez pas avoir plus de sorts que le double de votre score de Compétence de Lancement de sorts ou Lancement de sorts rituels (le plus grand des deux).</text>
-		</string>
-		<string>
-			<key>MessageTitle_SpellLimit</key>
-			<text>Nombre de sorts limité</text>
-		</string>
-		<string>
-			<key>Message_BoundSpiritLimit</key>
-			<text>Le nombre d'esprits vous étant liés ne peut pas excéder votre score de Charisme.</text>
-		</string>
-		<string>
-			<key>MessageTitle_BoundSpiritLimit</key>
-			<text>Nombre d'esprits liés</text>
-		</string>
-		<string>
-			<key>Message_RegisteredSpriteLimit</key>
-			<text>Le nombre de sprites enregistrés ne peut pas excéder votre score de LOG.</text>
-		</string>
-		<string>
-			<key>MessageTitle_RegisteredSpriteLimit</key>
-			<text>Nombre de sprites enregistrés limité</text>
-		</string>
-		<string>
-			<key>Message_CannotRemoveCyberware</key>
-			<text>Cet article ne peut pas être retiré car il est inclu de base dans une pièce de cyberware.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotRemoveCyberware</key>
-			<text>Impossible de retirer le cyberware</text>
-		</string>
-		<string>
-			<key>Message_ComplexFormLimit</key>
-			<text>Le nombre de vos formes complexes ne peut excéder le double de votre score de LOG.</text>
-		</string>
-		<string>
-			<key>MessageTitle_ComplexFormLimit</key>
-			<text>Nombre de formes complexes limité</text>
-		</string>
-		<string>
-			<key>Message_CannotRemoveQualityWeapon</key>
-			<text>Vous ne pouvez pas retirer une arme issue d'un avantage depuis cet onglet. Vous devez plutôt retirer l'avantage depuis l'onglet Commun.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotRemoveQualityWeapon</key>
-			<text>Impossible de supprimer une arme issue d'un avantage</text>
-		</string>
-		<string>
-			<key>Message_CannotRemoveCyberweapon</key>
-			<text>Vous ne pouvez pas retirer une cyberarme depuis cet onglet. Vous devez plutôt retirer la cyberarme depuis l'onglet cyberware.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotRemoveCyberweapon</key>
-			<text>Impossible de retirer la cyberarme</text>
-		</string>
-		<string>
-			<key>Message_CannotRemoveGearWeapon</key>
-			<text>Vous ne pouvez pas retirer une arme créée par l'équipement depuis cet onglet. Vous devez plutôt retirer l'arme depuis l'onglet équipement.</text>
-		</string>
-		<string>
-			<key>Message_CannotRemoveGearWeaponVehicle</key>
-			<text>Vous ne pouvez pas retirer une arme créée par l'équipement depuis cet onglet. Vous devez plutôt retirer l'équipement depuis l'onglet véhicules.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotRemoveGearWeapon</key>
-			<text>Impossible de retirer l'arme d'équipement</text>
-		</string>
-		<string>
-			<key>Message_CannotRemoveVehicleMod</key>
-			<text>Vous ne pouvez pas retirer une modification qui vient avec un véhicule.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotRemoveVehicleMod</key>
-			<text>Impossible de retirer la modification</text>
-		</string>
-		<string>
-			<key>Message_CannotSelectMetamagic</key>
-			<text>Votre grade d'initié doit être plus grand que 0 pour sélectionner des métamagie.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotSelectMetamagic</key>
-			<text>Impossible de sélectionner une métamagie</text>
-		</string>
-		<string>
-			<key>Message_CannotSelectEcho</key>
-			<text>Votre grade de Submersion doit être plus grand que 0 pour sélectionner des échos.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotSelectEcho</key>
-			<text>Impossible de sélectionner un écho</text>
-		</string>
-		<string>
-			<key>Message_AdditionalMetamagic</key>
-			<text>Une métamagie additionelle coûte {0} Karma. Êtes-vous sûr de vouloir ajouter une nouvelle métamagie ?</text>
-		</string>
-		<string>
-			<key>Message_AdditionalMetamagicLimit</key>
-			<text>Vous pouvez seulement avoir un nombre de métamagies égal à votre MAG + Grade d'Initié.</text>
-		</string>
-		<string>
-			<key>MessageTitle_AdditionalMetamagic</key>
-			<text>Ajouter une métamagie...</text>
-		</string>
-		<string>
-			<key>Message_AdditionalEcho</key>
-			<text>Un écho additionel va vous coûter {0} Karma. Êtes-vous sûr de vouloir ajouter un nouvel écho?</text>
-		</string>
-		<string>
-			<key>Message_AdditionalEchoLimit</key>
-			<text>Vous pouvez seulement avoir un nombre d'échos égal à votre RÉS + Grade de Submersion.</text>
-		</string>
-		<string>
-			<key>MessageTitle_AdditionalEcho</key>
-			<text>Ajouter un écho...</text>
-		</string>
-		<string>
-			<key>Message_CannotIncreaseInitiateGrade</key>
-			<text>Votre grade d'Initié ne peut pas excéder votre attribut de Magie.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotIncreaseInitiateGrade</key>
-			<text>Impossible d'augmenter le grade d'Initié</text>
-		</string>
-		<string>
-			<key>Message_CannotIncreaseSubmersionGrade</key>
-			<text>Votre grade de Submersion ne peut pas excéder votre attribut de RÉS.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotIncreaseSubmersionGrade</key>
-			<text>Impossible d'augmenter le grade de Submersion</text>
-		</string>
-		<string>
-			<key>Message_SelectCyberware</key>
-			<text>Vous devez d'abord sélectionner une piece de cyberware avant de pouvoir lui installer une extension.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectCyberware</key>
-			<text>Sélectionnez du cyberware</text>
-		</string>
-		<string>
-			<key>Message_SelectWeaponAccessory</key>
-			<text>Vous devez d'abord sélectionner une arme avant de pouvoir lui associer un accessoire.</text>
-		</string>
-		<string>
-			<key>Message_SelectWeaponMod</key>
-			<text>Vous devez d'abord sélectionner une arme avant de pouvoir la modifier.</text>
-		</string>
-		<string>
-			<key>Message_SelectWeaponName</key>
-			<text>Vous devez d'abord sélectionner une arme avant de pouvoir la nommer.</text>
-		</string>
-		<string>
-			<key>Message_SelectWeaponUnderbarrel</key>
-			<text>Vous devez d'abord sélectionner une arme avant de pouvoir lui attacher une autre arme sous le canon.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectWeapon</key>
-			<text>Sélectionnez une arme</text>
-		</string>
-		<string>
-			<key>Message_CyberwareUnderbarrel</key>
-			<text>Les armes sous le canon ne peuvent pas être attachées aux cyberarmes.</text>
-		</string>
-		<string>
-			<key>MessageTitle_WeaponUnderbarrel</key>
-			<text>Impossible d'attacher une arme sous le canon</text>
-		</string>
-		<string>
-			<key>Message_CannotModifyWeapon</key>
-			<text>Aucun accessoire ne peut être associé à cette arme.</text>
-		</string>
-		<string>
-			<key>Message_CannotModifyWeaponMod</key>
-			<text>Aucune modification ne peut être associée à cette arme.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotModifyWeapon</key>
-			<text>L'arme ne peut pas être modifiée</text>
-		</string>
-		<string>
-			<key>Message_WeaponGear</key>
-			<text>Impossible d'ajouter de l'équipement à cet accessoire d'arme.</text>
-		</string>
-		<string>
-			<key>Message_CyberweaponNoAccessory</key>
-			<text>Les accessoires ne peuvent pas être associés aux cyberarmes.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CyberweaponNoAccessory</key>
-			<text>Impossible d'associer des accessoires</text>
-		</string>
-		<string>
-			<key>Message_CyberwareGear</key>
-			<text>Impossible d'ajouter de l'équipement à cette partie de cyberware.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CyberwareGear</key>
-			<text>Impossible d'ajouter de l'équipement</text>
-		</string>
-		<string>
-			<key>Message_SelectArmor</key>
-			<text>Vous devez d'abord sélectionner une pièce d'armure avant de pouvoir la modifier.</text>
-		</string>
-		<string>
-			<key>Message_SelectArmorName</key>
-			<text>Vous devez d'abord sélectionner une pièce d'armure avant de pouvoir la nommer.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectArmor</key>
-			<text>Sélectionnez une Armure</text>
-		</string>
-		<string>
-			<key>Message_SelectGear</key>
-			<text>Vous devez d'abord sélectionner une pièce d'équipement avant de pouvoir y installer une extension.</text>
-		</string>
-		<string>
-			<key>Message_SelectGearName</key>
-			<text>Vous devez d'abord sélectionner une pièce d'équipement à nommer.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectGear</key>
-			<text>Sélectionnez un équipement</text>
-		</string>
-		<string>
-			<key>Message_SelectVehicle</key>
-			<text>Vous devez d'abord sélectionner un véhicule avant de pouvoir le modifier.</text>
-		</string>
-		<string>
-			<key>Message_SelectVehicleName</key>
-			<text>Vous devez d'abord sélectionner un véhicule avant de pouvoir le nommer.</text>
-		</string>
-		<string>
-			<key>Message_SelectVehicleLocation</key>
-			<text>Vous devez d'abord sélectionner un véhicule pour y ajouter un groupe d'équipement.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectVehicle</key>
-			<text>Sélectionnez un véhicule</text>
-		</string>
-		<string>
-			<key>Message_CannotAddWeapon</key>
-			<text>Les armes ne peuvent être accueillies que par des Montures d'armes.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotAddWeapon</key>
-			<text>Impossible d'attacher l'arme</text>
-		</string>
-		<string>
-			<key>Message_VehicleWeaponAccessories</key>
-			<text>Ici cet accessoire ne peut être associé qu'à une arme de véhicule.</text>
-		</string>
-		<string>
-			<key>MessageTitle_VehicleWeaponAccessories</key>
-			<text>Impossible d'associer l'accessoire d'Arme</text>
-		</string>
-		<string>
-			<key>Message_VehicleWeaponMods</key>
-			<text>Ici la modification d'arme ne peut être apportée qu'à une arme de véhicule.</text>
-		</string>
-		<string>
-			<key>MessageTitle_VehicleWeaponMods</key>
-			<text>Modification d'Arme impossible</text>
-		</string>
-		<string>
-			<key>Message_VehicleWeaponUnderbarrel</key>
-			<text>Ici les armes sous le canon ne peuvent être attachées qu'aux armes de véhicule.</text>
-		</string>
-		<string>
-			<key>MessageTitle_VehicleWeaponUnderbarrel</key>
-			<text>Impossible d'attacher une arme sous le canon</text>
-		</string>
-		<string>
-			<key>Message_SelectGearVehicle</key>
-			<text>Vous devez d'abord sélectionner un véhicule avant de lui ajouter de l'équipement.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectGearVehicle</key>
-			<text>Sélectionnez un véhicule</text>
-		</string>
-		<string>
-			<key>Message_ModifyVehicleGear</key>
-			<text>Vous devez d'abord sélectionner une pièce d'équipement avant de pouvoir la modifier.</text>
-		</string>
-		<string>
-			<key>MessageTitle_ModifyVehicleGear</key>
-			<text>Sélectionnez une pièce d'équipement du véhicule</text>
-		</string>
-		<string>
-			<key>Message_SelectComplexForm</key>
-			<text>Vous devez d'abord sélectionner une forme complexe avant de pouvoir lui ajouter une option.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectComplexForm</key>
-			<text>Sélectionnez une forme complexe</text>
-		</string>
-		<string>
-			<key>Message_CannotAddComplexFormOption</key>
-			<text>Cette forme complexe ne permet pas d'options.</text>
-		</string>
-		<string>
-			<key>Message_ConntAddComplexFormOptionLimit</key>
-			<text>Cette Forme Complexe ne peut pas avoir plus de {0} options à cause de son Indice.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotAddComplexFormOption</key>
-			<text>Impossible d'ajouter l'option</text>
-		</string>
-		<string>
-			<key>Message_FocusMaximumForce</key>
-			<text>La Puissance totale de tous les Focus liés ne peut pas excéder 5 × MAG.</text>
-		</string>
-		<string>
-			<key>Message_FocusMaximumNumber</key>
-			<text>Le nombre maximum de Focus pouvant être liés est égal à MAG.</text>
-		</string>
-		<string>
-			<key>MessageTitle_FocusMaximum</key>
-			<text>Impossible de lier le Focus</text>
-		</string>
-		<string>
-			<key>Message_UnbindFocus</key>
-			<text>Êtes-vous sûr de vouloir délier ce Focus ?</text>
-		</string>
-		<string>
-			<key>MessageTitle_UnbindFocus</key>
-			<text>Délier le focus</text>
-		</string>
-		<string>
-			<key>Message_AttributeMaximum</key>
-			<text>Vous ne pouvez pas avoir plus d'un Attribut à son maximum à la création du personnage.</text>
-		</string>
-		<string>
-			<key>Message_AttributeBuildPoints</key>
-			<text>Vous ne pouvez pas dépenser plus de {0} dans les Attributs.</text>
-		</string>
-		<string>
-			<key>MessageTitle_Attribute</key>
-			<text>Règle d'Attribut</text>
-		</string>
-		<string>
-			<key>Message_CapacityReached</key>
-			<text>Cette pièce d'équipement a atteint sa limite de Capacité.</text>
-		</string>
-		<string>
-			<key>Message_CapacityReachedValidate</key>
-			<text>{0} pièces d'équipement ont atteint leur limite de Capacité.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CapacityReached</key>
-			<text>Capacité atteinte</text>
-		</string>
-		<string>
-			<key>Message_InvalidBeginning</key>
-			<text>Ce personnage n'est pas valide sur les points suivants :</text>
-		</string>
-		<string>
-			<key>Message_InvalidPointExcess</key>
-			<text>{0} d'utilisés au delà de la limite authorisée</text>
-		</string>
-		<string>
-			<key>Message_InvalidNuyenExcess</key>
-			<text>{0} dépensés au dessus du total disponible</text>
-		</string>
-		<string>
-			<key>Message_InvalidEssenceExcess</key>
-			<text>{0} d'Essence dépensée au delà de la limite autorisée</text>
-		</string>
-		<string>
-			<key>Message_InvalidNoTradition</key>
-			<text>Aucune Tradition sélectionnée</text>
-		</string>
-		<string>
-			<key>Message_InvalidNoStream</key>
-			<text>Aucun Courant de Résonnance n'a été sélectionné</text>
-		</string>
-		<string>
-			<key>Message_InvalidAvail</key>
-			<text>{0} objet(s) de Disponibilité supérieure à {1} au delà de la limite autorisée</text>
-		</string>
-		<string>
-			<key>MessageTitle_Invalid</key>
-			<text>Personnage non valide</text>
-		</string>
-		<string>
-			<key>Message_ExtraKarma</key>
-			<text>{0} points de Karma sont encore disponibles.\nLeur transfert en mode carrière n'est possible que dans la limite de {1} points.\nÊtes-vous sûr de vouloir perdre ces points supplémentaires ?</text>
-		</string>
-		<string>
-			<key>MessageTitle_ExtraKarma</key>
-			<text>Karma supplémentaire</text>
-		</string>
-		<string>
-			<key>Message_ConfirmCreate</key>
-			<text>Une fois qu'un personnage a été sauvegardé comme "Prêt pour le jeu", il ne peut plus être modifié en utilisant le système de création. Le personnage est mis en mode "Carrière", où il ne pourra être amélioré qu'avec le Karma.\n\nÊtes-vous bien sûr de vouloir sauvegarder ce personnage tel quel?</text>
-		</string>
-		<string>
-			<key>MessageTitle_ConfirmCreate</key>
-			<text>Confirmez le passage en mode Carrière</text>
-		</string>
-		<string>
-			<key>Message_CannotChangeMetatype</key>
-			<text>Vous ne pouvez pas changer de Métatype tant que les Traits suivants, dépendant du Métatype actuel, n'ont pas été retirées.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotChangeMetatype</key>
-			<text>Impossible de changer de Métatype</text>
-		</string>
-		<string>
-			<key>Message_CyberwareGradeMismatch</key>
-			<text>Tout le cyberware d'un personnage doit être de même grade pour créer une suite cyberware.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CyberwareGradeMismatch</key>
-			<text>Grade de cyberware non identique</text>
-		</string>
-		<string>
-			<key>Message_NoCyberware</key>
-			<text>Ce personnage n'a pas de cyberware.</text>
-		</string>
-		<string>
-			<key>MessageTitle_NoCyberware</key>
-			<text>Pas de cyberware</text>
-		</string>
-		<string>
-			<key>Message_CannotBurnEdge</key>
-			<text>Il ne vous reste plus de Chance à brûler.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotBurnEdge</key>
-			<text>Impossible de brûler un point de Chance</text>
-		</string>
-		<string>
-			<key>Message_BurnEdge</key>
-			<text>Êtes-vous sûr de vouloir brûler ce point de Chance ?</text>
-		</string>
-		<string>
-			<key>MessageTitle_BurnEdge</key>
-			<text>Brûler la Chance</text>
-		</string>
-		<string>
-			<key>Message_CannotSpendEdge</key>
-			<text>Il ne vous reste plus de Chance à dépenser.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotSpendEdge</key>
-			<text>Impossible de dépenser de la Chance</text>
-		</string>
-		<string>
-			<key>Message_CannotRegainEdge</key>
-			<text>Vous ne pouvez pas excéder votre attribut de Chance.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotRegainEdge</key>
-			<text>Impossible de regagner de la Chance</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughKarma</key>
-			<text>Vous n'avez pas assez de Karma pour cette dépense.</text>
-		</string>
-		<string>
-			<key>MessageTitle_NotEnoughKarma</key>
-			<text>Pas assez de Kama</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpense</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour l'amélioration de {0}?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseSpecialization</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour changer votre Spécialisation actuelle à {0} ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseEnemy</key>
-			<text>Devez-vous dépenser du Karma pour retirer cet Ennemi ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseSpend</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour {0} ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseRemove</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour retirer {0} ?</text>
 		</string>
 		<string>
 			<key>Message_ConfirmKarmaExpenseComplexFormOption</key>
@@ -7469,30 +7701,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 			<text>Métamagie</text>
 		</string>
 		<string>
-			<key>MessageTitle_SelectLimitModifier</key>
-			<text>Sélectionnez une Limite modifiée</text>
-		</string>
-		<string>
-			<key>Message_PositiveQualityMoreThanNegativeQuality</key>
-			<text>Vous ne pouvez pas dépenser plus en Avantages qu'en Défauts.</text>
-		</string>
-		<string>
-			<key>Message_PrioritySpellLimit</key>
-			<text>Vous ne pouvez pas avoir plus de sorts que ceux permis par votre priorité magique.</text>
-		</string>
-		<string>
-			<key>Message_PriorityComplexFormLimit</key>
-			<text>Votre nombre de formes complexes ne peut pas dépasser le nombre défini par votre priorité de Résonance.</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughMagic</key>
-			<text>Vous n'avez pas assez en magie pour cette amélioration.</text>
-		</string>
-		<string>
-			<key>MessageTitle_NotEnoughMagic</key>
-			<text>Pas assez en magie</text>
-		</string>
-		<string>
 			<key>String_SpellExtended</key>
 			<text>Étendu</text>
 		</string>
@@ -7765,10 +7973,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 			<text>Contrat</text>
 		</string>
 		<string>
-			<key>Message_ConfirmKarmaandNuyenExpense</key>
-			<text>Êtes-vous sûr de vouloir dépenser {2} Karma et {3} Nuyen pour améliorer de {0} à {1} ?</text>
-		</string>
-		<string>
 			<key>MessageTitle_NotHighestGrade</key>
 			<text>Vous ne pouvez pas annuler cette entrée</text>
 		</string>
@@ -7795,34 +7999,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>Message_UndoNotHighestGrade</key>
 			<text>Vous devez d'abord annuler les entrées des grades d'initiation.</text>
-		</string>
-		<string>
-			<key>Message_InvalidAttributeExcess</key>
-			<text>{0} de plus que la limite de points d'attribut allouée</text>
-		</string>
-		<string>
-			<key>Message_InvalidSpecialExcess</key>
-			<text>{0} de plus que la limite de points d'attribut spécial allouée</text>
-		</string>
-		<string>
-			<key>Message_InvalidSkillGroupExcess</key>
-			<text>{0} de plus que la limite de points de groupe de compétences allouée</text>
-		</string>
-		<string>
-			<key>Message_InvalidActiveSkillExcess</key>
-			<text>{0} de plus que la limite de points de compétence active allouée</text>
-		</string>
-		<string>
-			<key>Message_InvalidKnowledgeSkillExcess</key>
-			<text>{0} de plus que la limite de points de compétence des connaissances allouées</text>
-		</string>
-		<string>
-			<key>Message_ExtraNuyen</key>
-			<text>You have {0} remaining but are only allowed to carry {1} over to your career.\nAre you sure you want to lose these extra Nuyen?</text>
-		</string>
-		<string>
-			<key>MessageTitle_ExtraNuyen</key>
-			<text>Nuyen supplémentaires</text>
 		</string>
 		<string>
 			<key>String_Schooling</key>
@@ -8005,54 +8181,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>String_Seconds</key>
 			<text>secondes</text>
-		</string>
-		<string>
-			<key>Message_RestrictedGearUsed</key>
-			<text>Un équipement réglementé est utilisé pour:\n{0}</text>
-		</string>
-		<string>
-			<key>Label_CyberlimbSTR</key>
-			<text>Force (FOR):</text>
-		</string>
-		<string>
-			<key>Label_CyberlimbAGI</key>
-			<text>Agilité (AGI):</text>
-		</string>
-		<string>
-			<key>Label_Visibility</key>
-			<text>Visibilité:</text>
-		</string>
-		<string>
-			<key>Title_CreateWeaponMount</key>
-			<text>Créer un support d'arme</text>
-		</string>
-		<string>
-			<key>Message_ImprovementQuality</key>
-			<text>Cette qualité a été ajoutée par {0}. Il faut l'enlever pour enlever cette qualité.</text>
-		</string>
-		<string>
-			<key>Message_HighContact</key>
-			<text>Vous ne pouvez pas avoir un contact qui vaut plus de 7 points à la génération de personnages.</text>
-		</string>
-		<string>
-			<key>Message_CannotFindWeapon</key>
-			<text>L'arme n'a pas été trouvée. Retirez l'arme et réajoutez-la, parce que le nom ou d'autres détails ont peut-être été modifiés.</text>
-		</string>
-		<string>
-			<key>Label_Flexibility</key>
-			<text>Flexibilité:</text>
-		</string>
-		<string>
-			<key>Message_OverLanguageLimit</key>
-			<text>Trop de compétences linguistiques répertoriées comme maternelles. Courant: {0} Maximale: {1}</text>
-		</string>
-		<string>
-			<key>MessageTitle_ExtraPoints</key>
-			<text>Points supplémentaires</text>
-		</string>
-		<string>
-			<key>String_EssenceLoss</key>
-			<text>Perte d'essence</text>
 		</string>
 		<string>
 			<key>String_KnowledgeSkillFilterAll</key>
@@ -8393,26 +8521,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>String_SkillFilterBrokenSkillGroup</key>
 			<text>Montrer des compétences actives dans des groupes de compétences brisées</text>
-		</string>
-		<string>
-			<key>Button_AddMod</key>
-			<text>Ajouter modification</text>
-		</string>
-		<string>
-			<key>Button_DeleteMod</key>
-			<text>Enlever modification</text>
-		</string>
-		<string>
-			<key>Node_AdditionalMods</key>
-			<text>Modification supplémentaires</text>
-		</string>
-		<string>
-			<key>Message_InvalidExConWare</key>
-			<text>Les éléments suivants de cyberware / bioware limités ne sont pas permis sur un ExCon :</text>
-		</string>
-		<string>
-			<key>Message_ExtraPoints</key>
-			<text>Vous avez {0} points à dépenser pour {1}.\nVous êtes sûr de vouloir perdre ces points supplémentaires ?</text>
 		</string>
 		<string>
 			<key>Message_ConfirmKarmaExpenseLowerLevel</key>
@@ -8763,74 +8871,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>Warning_NoLimitFound</key>
 			<text>Impossible de trouver la limite appropriée à modifier. Assurez-vous d'avoir sélectionné un modificateur de limite personnalisé.</text>
-		</string>
-		<string>
-			<key>Message_InvalidCyberwareGrades</key>
-			<text>La limite de grade Cyber/Bioware est dépassée pour les éléments suivants :</text>
-		</string>
-		<string>
-			<key>Checkbox_PrototypeTranshuman</key>
-			<text>Prototype Transhumain</text>
-		</string>
-		<string>
-			<key>Label_Overclocker</key>
-			<text>Overclocker :</text>
-		</string>
-		<string>
-			<key>Label_Control</key>
-			<text>Controle :</text>
-		</string>
-		<string>
-			<key>Label_Size</key>
-			<text>Taille :</text>
-		</string>
-		<string>
-			<key>Message_OverPrototypeLimit</key>
-			<text>Limite de Bioware dépassée pour le Prototype Transhuman. Courant : {0} Maximum : {1}</text>
-		</string>
-		<string>
-			<key>Message_OverPositiveMetagenicQualities</key>
-			<text>Trop de qualités métagénétiques. Actuel : {0} Maximum : {1}</text>
-		</string>
-		<string>
-			<key>Message_OverNegativeMetagenicQualities</key>
-			<text>Trop de défauts métagénétiques. Actuel : {0} Maximum : {1}</text>
-		</string>
-		<string>
-			<key>Message_MetagenicQualitiesUnbalanced</key>
-			<text>Les défauts métagénétiques sont déséquilibrés. Actuel : {0} Attendu : {1} ou {2}</text>
-		</string>
-		<string>
-			<key>Message_MetagenicQualitiesInsufficientKarma</key>
-			<text>1 Karma est nécessaire pour équilibrer les qualités métagéniques négatives et positives. Actuellement disponible : {0}</text>
-		</string>
-		<string>
-			<key>Message_MetagenicQualitiesSubtractingKarma</key>
-			<text>1 Karma est nécessaire pour équilibrer les qualités métagéniques négatives et positives. Actuellement disponible : {0}.\nEst-ce acceptable de dépenser ce karma ?</text>
-		</string>
-		<string>
-			<key>Message_NoExtraKarma</key>
-			<text>Vous avez encore {0} karma, mais vous ne pouvez pas le mettre en carrière. Êtes-vous sûr de vouloir perdre ce karma supplémentaire ?</text>
-		</string>
-		<string>
-			<key>Message_SumtoTen</key>
-			<text>Votre sélection de priorité doit être égale à {0}. Il est actuellement {1}.</text>
-		</string>
-		<string>
-			<key>String_EdgeUse</key>
-			<text>Utiliser Chance</text>
-		</string>
-		<string>
-			<key>String_EssenceLossChargen</key>
-			<text>Perte d'Essence (Création du personnage)</text>
-		</string>
-		<string>
-			<key>String_SpiritFettering</key>
-			<text>Entrave d'Esprit</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseKnowledgeSkill</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour l'amélioration de {0} à {1} pour {2} points de karme, et verrouiller cette compétence à {3} ?</text>
 		</string>
 		<string>
 			<key>Message_ReapplyImprovementsFoundOutdatedItems_Bottom</key>
@@ -9501,14 +9541,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 			<text>Complication avec plus d'un que de succès, pas avec la moitié des dés</text>
 		</string>
 		<string>
-			<key>Message_UnregisteredSpriteLimit</key>
-			<text>Vous ne pouvez pas avoir plus d'un Sprite non enregistré à la fois.</text>
-		</string>
-		<string>
-			<key>MessageTitle_UnregisteredSpriteLimit</key>
-			<text>Limite pour les sprites non enregistrés</text>
-		</string>
-		<string>
 			<key>Checkbox_Sprite_Pet</key>
 			<text>Animal de compagnie Sprite</text>
 		</string>
@@ -9535,10 +9567,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>Label_StolenGearNuyen</key>
 			<text>Nuyen (volé) :</text>
-		</string>
-		<string>
-			<key>Message_InvalidStolenNuyenExcess</key>
-			<text>{0} de plus que votre total Nuyen pour le équioement volé</text>
 		</string>
 		<string>
 			<key>Checkbox_Stolen</key>
@@ -9595,22 +9623,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>Checkbox_Options_IncreasedImprovedAbilityModifier</key>
 			<text>La compétence améliorée est limitée par la puissance apprise à 1,5 au lieu de 0,5</text>
-		</string>
-		<string>
-			<key>Label_SummaryMetagenicQualities</key>
-			<text>Traits métagénétiques</text>
-		</string>
-		<string>
-			<key>Label_MetagenicKarmaValue</key>
-			<text>{0}P/{1}N - max. {2}</text>
-		</string>
-		<string>
-			<key>Label_MetagenicKarmaValueAppend</key>
-			<text> (1 Karma)</text>
-		</string>
-		<string>
-			<key>Message_InvalidPowerPoints</key>
-			<text>{0} de plus que les points de pouvoir maximum des adeptes ({1})</text>
 		</string>
 		<string>
 			<key>Label_RatingFormat</key>
@@ -9719,10 +9731,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>Label_OtherSurprise</key>
 			<text>Surprise :</text>
-		</string>
-		<string>
-			<key>Message_InvalidActiveSkillExcessSpecializations</key>
-			<text>Une ou plusieurs compétences actives ont plus d'une spécialisation :</text>
 		</string>
 		<string>
 			<key>Message_CustomDrug_MissingFoundation</key>

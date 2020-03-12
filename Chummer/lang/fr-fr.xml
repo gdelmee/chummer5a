@@ -2858,6 +2858,230 @@
 		<text>Êtes-vous sûr de vouloir dépenser {1} points de karma pour retirer {0} ?</text>
 	  </string>
 	  <string>
+		<key>Message_ConfirmKarmaExpenseLowerLevel</key>
+		<text>Êtes-vous sûr de vouloir dépenser {1} points de karma pour enlever un niveau de {0} ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseComplexFormOption</key>
+		<text>Êtes-vous sûr de vouloir dépenser {0} points de karma pour ajouter cette option de forme complexe ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseFocus</key>
+		<text>Êtes-vous sûr de vouloir dépenser {0} points de karma pour lier {1} ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseJoinGroup</key>
+		<text>Êtes-vous sûr de vouloir dépenser {0} points de karma pour rejoindre un groupe ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseSkillSpecialization</key>
+		<text>Êtes-vous sûr de dépenser {0} points de karma pour une spécialisation de compétence ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseLeaveGroup</key>
+		<text>Êtes-vous sûr de vouloir dépenser {0} points de karma pour quitter un groupe ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseJoinNetwork</key>
+		<text>Êtes-vous sûr de vouloir dépenser {0} points de karma pour rejoindre un réseau ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseLeaveNetwork</key>
+		<text>Êtes-vous sûr de vouloir dépenser {0} points de karma pour quitter un réseau ?</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmKarmaExpenseQuickeningMetamagic</key>
+		<text>Êtes-vous sûr de vouloir dépenser {0} points de karma pour l'activation de {1}?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ConfirmKarmaExpense</key>
+		<text>Dépenser du Karma</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughNuyen</key>
+		<text>Vous n'avez pas assez de Nuyen pour cette dépense.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_NotEnoughNuyen</key>
+		<text>Pas assez de Nuyen</text>
+	  </string>
+	  <string>
+		<key>Message_BreakSkillGroup</key>
+		<text>Cette compétence active dépend du groupe de compétences {0}. Améliorer cette compétence active divisera le groupe de compétences en compétences actives distinctes et le groupe ne pourra pas être rétabli.\nÊtes-vous bien sûr de vouloir continuer ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_BreakSkillGroup</key>
+		<text>Diviser un groupe de compétences</text>
+	  </string>
+	  <string>
+		<key>Message_AddNegativeQuality</key>
+		<text>Êtes-vous sûr de vouloir ajouter ce défaut ? Vous ne recevrez aucun karma pour cela.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_AddNegativeQuality</key>
+		<text>Ajouter un défaut...</text>
+	  </string>
+	  <string>
+		<key>Message_QualitySwap</key>
+		<text>Êtes-vous sûr de vouloir échanger {0} pour {1} ?</text>
+	  </string>
+	  <string>
+		<key>Message_OutOfAmmo</key>
+		<text>Plus de munitions !</text>
+	  </string>
+	  <string>
+		<key>Message_OutOfAmmoType</key>
+		<text>Vous n'avez plus de munitions pour {0} !</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_OutOfAmmo</key>
+		<text>Quoi, "clic" ?</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughAmmoSingleShot</key>
+		<text>Il ne reste plus qu'une balle. Traiter cette attaque comme une attaque au coup par coup ?</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughAmmoShortBurstShort</key>
+		<text>Pas assez de munitions. Traiter cette attaque comme une rafale courte raccourcie ?</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughAmmoShortBurst</key>
+		<text>Pas assez de munitions. Traiter comme une rafale courte ?</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughAmmoLongBurstShort</key>
+		<text>Pas assez de munitions. Traiter comme une rafale longue raccourcie ?</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughAmmoFullBurst</key>
+		<text>Pas assez de munitions. Impossible de tirer en rafale automatique.</text>
+	  </string>
+	  <string>
+		<key>Message_NotEnoughAmmoSuppressiveFire</key>
+		<text>Pas assez de munitions. Impossible de tirer en tir de couverture.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_NotEnoughAmmo</key>
+		<text>Pas assez de munitions</text>
+	  </string>
+	  <string>
+		<key>Message_UndoNoHistory</key>
+		<text>Pas d'historique de changement pour cette entrée.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_NoUndoHistory</key>
+		<text>Impossible de retirer l'entrée</text>
+	  </string>
+	  <string>
+		<key>Message_UndoNotHighestGrade</key>
+		<text>Vous devez d'abord annuler les entrées des grades d'initiation.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_NotHighestGrade</key>
+		<text>Vous ne pouvez pas annuler cette entrée</text>
+	  </string>
+	  <string>
+		<key>Message_UndoExpense</key>
+		<text>Êtes-vous sûr de vouloir retirer cette entrée ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_UndoExpense</key>
+		<text>Retirer l'entrée</text>
+	  </string>
+	  <string>
+		<key>Message_ReduceQty</key>
+		<text>Êtes-vous sûr de vouloir réduire cette quantité de {0} ?</text>
+	  </string>
+	  <string>
+		<key>Message_VehicleCyberwarePlugin</key>
+		<text>Cette modification de véhicule n'admet pas d'extension de cyberware.</text>
+	  </string>
+	  <string>
+		<key>Message_CloningMachineNumberRequired</key>
+		<text>Vous devez entrer le nombre de clones à créer.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CloningMachineNumberRequired</key>
+		<text>Impossible de créer des clones</text>
+	  </string>
+	  <string>
+		<key>Message_CannotSplitGear</key>
+		<text>Vous ne pouvez pas diviser une pièce d'équipement seule en deux tas.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotSplitGear</key>
+		<text>Impossible de diviser l'équipement</text>
+	  </string>
+	  <string>
+		<key>Message_CannotMergeGear</key>
+		<text>Les pièces d'équipements que vous voulez rassembler ne sont pas exactement identiques.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotMergeGear</key>
+		<text>Impossible de rassembler l'équipement</text>
+	  </string>
+	  <string>
+		<key>Message_SelectLifestyleName</key>
+		<text>Un style de vie doit d'abord être selectionné avant de pouvoir être renommé.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_SelectLifestyle</key>
+		<text>Selectionner un style de vie</text>
+	  </string>
+	  <string>
+		<key>Message_CannotMoveWeapons</key>
+		<text>Aucun véhicule comportant des montures d'armes ou des bras mécaniques n'est disponible.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotMoveWeapons</key>
+		<text>Impossible de transférer l'arme</text>
+	  </string>
+	  <string>
+		<key>Message_CannotStackFoci</key>
+		<text>Vous devez avoir au minimum 2 focus non liés pour créer un focus multiple.</text>
+	  </string>
+	  <string>
+		<key>Message_StackedFocusMinimum</key>
+		<text>Un focus multiple doit contenir au moins 2 focus.</text>
+	  </string>
+	  <string>
+		<key>Message_StackedFocusForce</key>
+		<text>Un focus multiple ne peut dépasser 6 en puissance cumulée.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_CannotStackFoci</key>
+		<text>Impossible de créer un focus multiple</text>
+	  </string>
+	  <string>
+		<key>Message_ConfirmReapplyImprovements</key>
+		<text>Chummer va tenter de rechercher toutes les possessions de votre personnage et ré-apliquer toutes les améliorations qu'elles fournissent. Cette action peut résulter en une modification des attributs et compétences de votre personnage, ainsi qu'une modification d'autre nombres en fonction des améliorations fournies. Il est donc fortement recommandé de faire une sauvegarde de votre personnage avant d'effectuer cette action au cas où vous seriez insatisfait des changements apportés. Etes-vous sûr de vouloir ré-appliquer les améliorations ?</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_ConfirmReapplyImprovements</key>
+		<text>Ré-appliquer les améliorations</text>
+	  </string>
+	  <string>
+		<key>Message_ReapplyImprovementsFoundOutdatedItems_Top</key>
+		<text>En réappliquant les mesures d'amélioration, on a découvert que les éléments suivants n'avaient pas d'entrées dans les fichiers de données :\n\n</text>
+	  </string>
+	  <string>
+		<key>Message_ReapplyImprovementsFoundOutdatedItems_Bottom</key>
+		<text>\nToutes les améliorations que vous avez accordées ne pouvaient pas être ajoutées à nouveau. Veuillez retirer et remplacer ces éléments manuellement et/ou vous assurer que tous les fichiers de données personnalisés utilisés pour créer ce personnage sont toujours présents et actifs.</text>
+	  </string>
+	  <string>
+		<key>MessageTitle_Possession</key>
+		<text>Possession / habitation</text>
+	  </string>
+	  <string>
+		<key>Message_VesselInCareerMode</key>
+		<text>Le réceptacle doit être en mode carrière pour être possédé ou habité.</text>
+	  </string>
+	  <string>
+		<key>Message_PossessionSave</key>
+		<text>L'esprit doit d'abord être sauvé avant de pouvoir posséder ou habiter un réceptacle. Voulez-vous sauvez les modifications maintenant ?</text>
+	  </string>
+	  <string>
 			<key>Button_AddBundle</key>
 			<text>Ajouter un groupe d'équipement</text>
 		</string>
@@ -2868,206 +3092,6 @@
 		<string>
 			<key>Button_UnEquipAll</key>
 			<text>Déséquiper tout</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseComplexFormOption</key>
-			<text>Êtes-vous sûr de vouloir ajouter cette option de forme complexe ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseFocus</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour lier ce Focus ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseJoinGroup</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour joindre un Groupe ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseLeaveGroup</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour quitter un Groupe ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseJoinNetwork</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour joindre un Réseau ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseLeaveNetwork</key>
-			<text>Êtes-vous sûr de vouloir dépenser du Karma pour quitter un Réseau ?</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseQuickeningMetamagic</key>
-			<text>Êtes-vous sûr de vouloir dépenser {0} Karma pour l'Activation de {1}?</text>
-		</string>
-		<string>
-			<key>MessageTitle_ConfirmKarmaExpense</key>
-			<text>Dépenser du Karma</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughNuyen</key>
-			<text>Vous n'avez pas assez de Nuyen pour cette dépense.</text>
-		</string>
-		<string>
-			<key>MessageTitle_NotEnoughNuyen</key>
-			<text>Pas assez de Nuyen</text>
-		</string>
-		<string>
-			<key>Message_BreakSkillGroup</key>
-			<text>Cette Compétence active dépend du Groupe de Compétences {0}. Améliorer cette Compétence active divisera le Groupe de Compétences en Compétences actives distinctes et le groupe ne pourra pas être rétabli.\nÊtes-vous bien sûr de vouloir continuer ?</text>
-		</string>
-		<string>
-			<key>MessageTitle_BreakSkillGroup</key>
-			<text>Diviser un Groupe de Compétences</text>
-		</string>
-		<string>
-			<key>Message_AddNegativeQuality</key>
-			<text>Êtes-vous sûr de vouloir ajouter ce Défaut ? Vous ne recevrez aucun karma pour cela.</text>
-		</string>
-		<string>
-			<key>MessageTitle_AddNegativeQuality</key>
-			<text>Ajouter un défaut...</text>
-		</string>
-		<string>
-			<key>Message_QualitySwap</key>
-			<text>Êtes-vous sûr de vouloir échanger {0} pour {1} ?</text>
-		</string>
-		<string>
-			<key>Message_OutOfAmmo</key>
-			<text>Plus de munitions !</text>
-		</string>
-		<string>
-			<key>Message_OutOfAmmoType</key>
-			<text>Vous n'avez plus de munitions pour {0} !</text>
-		</string>
-		<string>
-			<key>MessageTitle_OutOfAmmo</key>
-			<text>Quoi, "clic" ?</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughAmmoSingleShot</key>
-			<text>Il ne reste plus qu'une balle. Traiter comme une attaque au coup par coup ?</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughAmmoShortBurstShort</key>
-			<text>Pas assez de munitions. Traiter comme une Rafale Courte raccourcie ?</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughAmmoShortBurst</key>
-			<text>Pas assez de munitions. Traiter comme une Rafale Courte ?</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughAmmoLongBurstShort</key>
-			<text>Pas assez de munitions. Traiter comme une Rafale Longue raccourcie ?</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughAmmoFullBurst</key>
-			<text>Pas assez de munitions. Impossible de tirer en Rafale Automatique.</text>
-		</string>
-		<string>
-			<key>Message_NotEnoughAmmoSuppressiveFire</key>
-			<text>Pas assez de munitions. Impossible de tirer en Tir de Couverture.</text>
-		</string>
-		<string>
-			<key>MessageTitle_NotEnoughAmmo</key>
-			<text>Pas assez de munitions</text>
-		</string>
-		<string>
-			<key>Message_UndoNoHistory</key>
-			<text>Pas d'historique de changement pour cette entrée.</text>
-		</string>
-		<string>
-			<key>MessageTitle_NoUndoHistory</key>
-			<text>Impossible de retirer l'entrée</text>
-		</string>
-		<string>
-			<key>Message_UndoExpense</key>
-			<text>Êtes-vous sûr de vouloir retirer cette entrée ?</text>
-		</string>
-		<string>
-			<key>MessageTitle_UndoExpense</key>
-			<text>Retirer l'entrée</text>
-		</string>
-		<string>
-			<key>Message_ReduceQty</key>
-			<text>Êtes-vous sûr de vouloir réduire cette quantité de {0}?</text>
-		</string>
-		<string>
-			<key>Message_VehicleCyberwarePlugin</key>
-			<text>Cette modification de véhicule n'admet pas d'extension de cyberware.</text>
-		</string>
-		<string>
-			<key>Message_CloningMachineNumberRequired</key>
-			<text>Vous devez entrer le nombre de clones à créer.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CloningMachineNumberRequired</key>
-			<text>Impossible de créer des clones</text>
-		</string>
-		<string>
-			<key>Message_CannotSplitGear</key>
-			<text>Vous ne pouvez pas diviser une pièce d'équipement seule en deux tas.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotSplitGear</key>
-			<text>Impossible de diviser l'équipement</text>
-		</string>
-		<string>
-			<key>Message_CannotMergeGear</key>
-			<text>Les pièces d'équipements que vous voulez rassembler ne sont pas exactement identiques.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotMergeGear</key>
-			<text>Impossible de rassembler l'équipement</text>
-		</string>
-		<string>
-			<key>Message_SelectLifestyleName</key>
-			<text>Un style de vie doit d'abord être selectionné avant de pouvoir être renommé.</text>
-		</string>
-		<string>
-			<key>MessageTitle_SelectLifestyle</key>
-			<text>Selectionner un style de vie</text>
-		</string>
-		<string>
-			<key>Message_CannotMoveWeapons</key>
-			<text>Aucun véhicule ne comportant de montures d'armes ou de bras mécaniques n'est disponible.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotMoveWeapons</key>
-			<text>Impossible de transférer l'arme</text>
-		</string>
-		<string>
-			<key>Message_CannotStackFoci</key>
-			<text>Vous devez avoir au minimum 2 focus non liés pour créer un focus multiple.</text>
-		</string>
-		<string>
-			<key>Message_StackedFocusMinimum</key>
-			<text>Un focus multiple doit contenir au moins 2 focus.</text>
-		</string>
-		<string>
-			<key>Message_StackedFocusForce</key>
-			<text>Un focus multiple ne peut dépasser 6 en puissance cumulée.</text>
-		</string>
-		<string>
-			<key>MessageTitle_CannotStackFoci</key>
-			<text>Impossible de créer un focus multiple</text>
-		</string>
-		<string>
-			<key>Message_ConfirmReapplyImprovements</key>
-			<text>Chummer va tenter de rechercher toutes les possessions de votre personnage et ré-apliquer toutes les améliorations qu'elles fournissent. Cette action peut résulter en une modification des attributs et compétences de votre personnage, ainsi qu'une modification d'autre nombres en fonction des améliorations fournies. Il est donc fortement recommandé de faire une sauvegarde de votre personnage avant d'effectuer cette action au cas où vous seriez insatisfait des changements apportés. Etes-vous sûr de vouloir ré-appliquer les améliorations ?</text>
-		</string>
-		<string>
-			<key>MessageTitle_ConfirmReapplyImprovements</key>
-			<text>Ré-appliquer les améliorations</text>
-		</string>
-		<string>
-			<key>MessageTitle_Possession</key>
-			<text>Possession/Habitation</text>
-		</string>
-		<string>
-			<key>Message_VesselInCareerMode</key>
-			<text>Le réceptacle doit être en mode carrière pour être possédé ou habité.</text>
-		</string>
-		<string>
-			<key>Message_PossessionSave</key>
-			<text>L'esprit doit d'abord être sauvé avant de pouvoir posséder ou habiter un réceptacle. Sauvez les modifications maintenant?</text>
 		</string>
 		<string>
 			<key>String_Possessed</key>
@@ -7973,10 +7997,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 			<text>Contrat</text>
 		</string>
 		<string>
-			<key>MessageTitle_NotHighestGrade</key>
-			<text>Vous ne pouvez pas annuler cette entrée</text>
-		</string>
-		<string>
 			<key>Checkbox_InitiationSchooling</key>
 			<text>Scolarisation (-10%)</text>
 		</string>
@@ -7995,10 +8015,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 		  <key>Checkbox_Options_AllowFreeGrids</key>
 		  <text>Permettre les abonnements de grille disponibles pour les niveau de vie, même si 'Hard Targets' n'est pas sélectionné comme livre source</text>
-		</string>
-		<string>
-			<key>Message_UndoNotHighestGrade</key>
-			<text>Vous devez d'abord annuler les entrées des grades d'initiation.</text>
 		</string>
 		<string>
 			<key>String_Schooling</key>
@@ -8099,10 +8115,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>Label_Condition</key>
 			<text>Condition :</text>
-		</string>
-		<string>
-			<key>Message_ConfirmKarmaExpenseSkillSpecialization</key>
-			<text>Êtes-vous sûr de dépenser {0} Karma pour une spécialisation de compétence ?</text>
 		</string>
 		<string>
 			<key>String_ExpenseLearnSpecialization</key>
@@ -8523,14 +8535,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 			<text>Montrer des compétences actives dans des groupes de compétences brisées</text>
 		</string>
 		<string>
-			<key>Message_ConfirmKarmaExpenseLowerLevel</key>
-			<text>Êtes-vous sûr de dépenser {1} Karma pour enlever un level de {0} ?</text>
-		</string>
-		<string>
-			<key>Message_ReapplyImprovementsFoundOutdatedItems_Top</key>
-			<text>En réappliquant les mesures d'amélioration, on a découvert que les éléments suivants n'avaient pas des entrées dans les fichiers de données :\n\n</text>
-		</string>
-		<string>
 			<key>String_KnowledgeSkillFilterTotalRatingAboveZero</key>
 			<text>Montrer les compétences de connaissance total des points &gt; 0</text>
 		</string>
@@ -8871,10 +8875,6 @@ Un saul attribut peut atteindre sa valeur maximum durant la création de personn
 		<string>
 			<key>Warning_NoLimitFound</key>
 			<text>Impossible de trouver la limite appropriée à modifier. Assurez-vous d'avoir sélectionné un modificateur de limite personnalisé.</text>
-		</string>
-		<string>
-			<key>Message_ReapplyImprovementsFoundOutdatedItems_Bottom</key>
-			<text>\nToutes les améliorations que vous avez accordées ne pouvaient pas être ajoutées à nouveau. Veuillez retirer et remplacer ces éléments manuellement et/ou vous assurer que tous les fichiers de données personnalisés utilisés pour créer ce caractère sont toujours présents et actifs.</text>
 		</string>
 		<string>
 			<key>String_Ambidextrous</key>
